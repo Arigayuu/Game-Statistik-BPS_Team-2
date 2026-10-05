@@ -201,6 +201,8 @@ function showResult() {
   document.getElementById("result-level").textContent = String(data.level);
   document.getElementById("result-streak").textContent = String(data.bestStreak);
   document.getElementById("result-title").textContent = data.gameOver ? "GAME OVER" : "GAME SELESAI!";
+  Game.saveRecord(data);
+  renderTrackRecord();
 
 
   showScreen("result");
@@ -212,9 +214,20 @@ function goHome() {
 }
 
 
-function goLevels() {
-  renderLevelList();
-  showScreen("levels");
+function renderTrackRecord() {
+  const container = document.getElementById("track-record");
+  if (!container) return;
+
+  container.innerHTML = LEVEL_INFO.map((info) => {
+    const record = Game.getRecord(info.level);
+    const status = record.attempts === 0 ? "Belum dimainkan" : record.successes > 0 ? "Berhasil" : "Belum berhasil";
+    return `<article class="record-row">
+      <h3>${info.name}</h3>
+      <p>Attempts: ${record.attempts}</p>
+      <p>Successes: ${record.successes}</p>
+      <p>Status: ${status}</p>
+    </article>`;
+  }).join("");
 }
 
 function bindEvents() {

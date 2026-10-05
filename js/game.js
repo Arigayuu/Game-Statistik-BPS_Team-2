@@ -31,6 +31,8 @@ const QUESTIONS_PER_ROUND = 5;
 const MAX_LIVES = 3;
 const STORAGE_UNLOCK_KEY = "sc_unlocked_level";
 const STORAGE_NICKNAME_KEY = "sc_nickname";
+const STORAGE_RECORDS_KEY = "sc_track_records";
+
 
 const Game = {
   nickname: "Pemain",
@@ -81,6 +83,33 @@ const Game = {
       this.unlockedLevel = level;
       localStorage.setItem(STORAGE_UNLOCK_KEY, String(level));
     }
+  },
+
+  getRecords() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_RECORDS_KEY) || "{}");
+    } catch (error) {
+      return {};
+    }
+  },
+
+  getRecord(level) {
+    const record = this.getRecords()[String(level)];
+    return record || { attempts: 0, successes: 0, failures: 0, highScore: 0 };
+  },
+
+  saveRecord(result) {
+    const records = this.getRecords();
+    const key = String(result.level);
+    const previous = this.getRecord(result.level);
+    const success = !result.gameOver;
+    records[key] = {
+      attempts: previous.attempts + 1,
+      successes: previous.successes + (success ? 1 : 0),
+      failures: previous.failures + (success ? 0 : 1),
+      highScore: Math.max(previous.highScore, result.score),
+    };
+    localStorage.setItem(STORAGE_RECORDS_KEY, JSON.stringify(records));
   },
 
   isUnlocked(level) {
