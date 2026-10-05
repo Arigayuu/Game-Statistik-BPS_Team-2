@@ -27,12 +27,10 @@ button { -webkit-tap-highlight-color: transparent; }
 .screen.active { display: block; }
 @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 
-.home-hero { position: relative; isolation: isolate; min-height: calc(100vh - 56px); display: flex; flex-direction: column; justify-content: center; gap: 18px; overflow: hidden; border-radius: 24px; padding: 30px 24px; background: linear-gradient(90deg, rgba(255,255,255,.97) 0%, rgba(255,255,255,.91) 46%, rgba(255,255,255,.42) 100%), url('../assets/IMG/Background BPS.jpg') center / cover; box-shadow: var(--shadow); }
-.home-hero::before { content: ""; position: absolute; z-index: -1; inset: 0; background: linear-gradient(135deg, rgba(239,125,34,.15), transparent 38%), linear-gradient(315deg, rgba(90,155,84,.14), transparent 42%); pointer-events: none; }
+.home-hero { position: relative; min-height: calc(100vh - 56px); display: flex; flex-direction: column; justify-content: center; gap: 18px; overflow: hidden; border-radius: 24px; padding: 30px 24px; background: url('../assets/IMG/Background BPS.jpg') center / cover; box-shadow: var(--shadow); }
 .brand-badge { display: inline-flex; width: fit-content; align-items: center; gap: 10px; color: var(--blue); font-size: .75rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
 .brand-badge img { width: 42px; height: 42px; object-fit: contain; border-radius: 10px; background: rgba(255,255,255,.75); }
-.brand-badge span { display: inline-flex; align-items: center; gap: 10px; }
-.brand-badge span::before { content: ""; width: 26px; height: 4px; border-radius: 99px; background: linear-gradient(90deg, var(--orange) 0 33%, var(--blue) 33% 66%, var(--green) 66%); }
+.brand-badge span { display: inline-flex; align-items: center; }
 .brand-title { color: var(--navy); font-size: clamp(2.9rem, 14vw, 5rem); font-weight: 950; line-height: .86; letter-spacing: -.07em; }
 .brand-title::first-line { color: var(--orange); }
 .tagline { max-width: 28ch; color: var(--muted); font-size: 1.05rem; }
