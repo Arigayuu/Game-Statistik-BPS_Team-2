@@ -1,0 +1,801 @@
+﻿id,level,kategori,pertanyaan,opsi_a,opsi_b,opsi_c,opsi_d,jawaban,poin
+1,1,Kenali Angka,"Manakah angka yang paling besar: 664, 124, 35, atau 769?",664,35,769,124,C,10
+2,1,Kenali Angka,"Manakah angka yang paling besar: 152, 764, 114, atau 702?",702,152,114,764,D,10
+3,1,Kenali Angka,"Manakah angka yang paling besar: 42, 40, 105, atau 233?",105,233,40,42,B,10
+4,1,Kenali Angka,"Manakah angka yang paling besar: 584, 213, 743, atau 675?",213,584,743,675,C,10
+5,1,Kenali Angka,"Manakah angka yang paling besar: 613, 294, 838, atau 900?",294,613,838,900,D,10
+6,1,Kenali Angka,"Manakah angka yang paling besar: 358, 294, 169, atau 230?",294,230,358,169,C,10
+7,1,Kenali Angka,"Manakah angka yang paling besar: 399, 109, 377, atau 877?",877,399,377,109,A,10
+8,1,Kenali Angka,"Manakah angka yang paling besar: 836, 54, 757, atau 480?",757,480,54,836,D,10
+9,1,Kenali Angka,"Manakah angka yang paling besar: 575, 310, 859, atau 653?",575,859,653,310,B,10
+10,1,Kenali Angka,"Manakah angka yang paling besar: 731, 81, 56, atau 687?",56,731,687,81,B,10
+11,1,Kenali Angka,"Manakah angka yang paling besar: 885, 248, 897, atau 113?",897,248,885,113,A,10
+12,1,Kenali Angka,"Manakah angka yang paling besar: 660, 864, 383, atau 176?",176,864,660,383,B,10
+13,1,Kenali Angka,"Manakah angka yang paling besar: 696, 283, 728, atau 969?",696,728,283,969,D,10
+14,1,Kenali Angka,"Manakah angka yang paling besar: 556, 756, 260, atau 177?",756,260,556,177,A,10
+15,1,Kenali Angka,"Manakah angka yang paling besar: 957, 665, 714, atau 580?",957,580,714,665,A,10
+16,1,Kenali Angka,"Manakah angka yang paling besar: 873, 796, 804, atau 67?",804,67,873,796,C,10
+17,1,Kenali Angka,"Manakah angka yang paling besar: 420, 284, 77, atau 226?",226,284,420,77,C,10
+18,1,Kenali Angka,"Manakah angka yang paling besar: 415, 915, 946, atau 668?",915,415,946,668,C,10
+19,1,Kenali Angka,"Manakah angka yang paling besar: 152, 262, 772, atau 584?",772,152,584,262,A,10
+20,1,Kenali Angka,"Manakah angka yang paling besar: 929, 607, 418, atau 380?",418,380,929,607,C,10
+21,1,Kenali Angka,"Manakah angka yang paling besar: 103, 783, 58, atau 891?",103,783,58,891,D,10
+22,1,Kenali Angka,"Manakah angka yang paling besar: 821, 706, 442, atau 620?",620,442,706,821,D,10
+23,1,Kenali Angka,"Manakah angka yang paling besar: 620, 489, 551, atau 267?",489,267,551,620,D,10
+24,1,Kenali Angka,"Manakah angka yang paling besar: 708, 916, 559, atau 778?",916,708,778,559,A,10
+25,1,Kenali Angka,"Manakah angka yang paling besar: 124, 310, 455, atau 171?",310,124,455,171,C,10
+26,1,Kenali Angka,"Manakah angka yang paling kecil: 522, 790, 192, atau 529?",529,522,790,192,D,10
+27,1,Kenali Angka,"Manakah angka yang paling kecil: 871, 664, 529, atau 633?",664,633,529,871,C,10
+28,1,Kenali Angka,"Manakah angka yang paling kecil: 790, 175, 562, atau 986?",986,790,562,175,D,10
+29,1,Kenali Angka,"Manakah angka yang paling kecil: 510, 29, 124, atau 961?",961,29,510,124,B,10
+30,1,Kenali Angka,"Manakah angka yang paling kecil: 69, 256, 909, atau 590?",909,256,590,69,D,10
+31,1,Kenali Angka,"Manakah angka yang paling kecil: 845, 80, 788, atau 555?",788,555,80,845,C,10
+32,1,Kenali Angka,"Manakah angka yang paling kecil: 979, 572, 179, atau 281?",979,572,179,281,C,10
+33,1,Kenali Angka,"Manakah angka yang paling kecil: 740, 329, 418, atau 697?",329,697,740,418,A,10
+34,1,Kenali Angka,"Manakah angka yang paling kecil: 133, 263, 240, atau 75?",133,240,75,263,C,10
+35,1,Kenali Angka,"Manakah angka yang paling kecil: 612, 235, 17, atau 82?",612,235,82,17,D,10
+36,1,Kenali Angka,"Manakah angka yang paling kecil: 937, 42, 890, atau 348?",937,348,890,42,D,10
+37,1,Kenali Angka,"Manakah angka yang paling kecil: 295, 695, 507, atau 229?",229,507,695,295,A,10
+38,1,Kenali Angka,"Manakah angka yang paling kecil: 258, 813, 494, atau 836?",813,494,258,836,C,10
+39,1,Kenali Angka,"Manakah angka yang paling kecil: 109, 684, 451, atau 372?",109,451,684,372,A,10
+40,1,Kenali Angka,"Manakah angka yang paling kecil: 894, 756, 65, atau 699?",756,894,699,65,D,10
+41,1,Kenali Angka,"Manakah angka yang paling kecil: 755, 357, 829, atau 892?",755,829,892,357,D,10
+42,1,Kenali Angka,"Manakah angka yang paling kecil: 204, 559, 469, atau 153?",559,204,153,469,C,10
+43,1,Kenali Angka,"Manakah angka yang paling kecil: 483, 265, 905, atau 955?",905,955,483,265,D,10
+44,1,Kenali Angka,"Manakah angka yang paling kecil: 61, 677, 563, atau 866?",677,563,866,61,D,10
+45,1,Kenali Angka,"Manakah angka yang paling kecil: 180, 426, 507, atau 502?",507,180,502,426,B,10
+46,1,Kenali Angka,"Manakah angka yang paling kecil: 178, 398, 12, atau 409?",12,409,178,398,A,10
+47,1,Kenali Angka,"Manakah angka yang paling kecil: 443, 723, 990, atau 758?",723,990,443,758,C,10
+48,1,Kenali Angka,"Manakah angka yang paling kecil: 313, 232, 69, atau 603?",603,313,232,69,D,10
+49,1,Kenali Angka,"Manakah angka yang paling kecil: 68, 61, 608, atau 498?",498,608,61,68,C,10
+50,1,Kenali Angka,"Manakah angka yang paling kecil: 881, 200, 80, atau 619?",881,619,200,80,D,10
+51,1,Kenali Angka,Angka 433 dibandingkan dengan 142 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+52,1,Kenali Angka,Angka 603 dibandingkan dengan 272 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+53,1,Kenali Angka,Angka 612 dibandingkan dengan 628 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+54,1,Kenali Angka,Angka 60 dibandingkan dengan 654 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+55,1,Kenali Angka,Angka 103 dibandingkan dengan 449 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+56,1,Kenali Angka,Angka 693 dibandingkan dengan 617 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+57,1,Kenali Angka,Angka 598 dibandingkan dengan 555 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+58,1,Kenali Angka,Angka 343 dibandingkan dengan 287 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+59,1,Kenali Angka,Angka 229 dibandingkan dengan 705 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+60,1,Kenali Angka,Angka 753 dibandingkan dengan 341 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+61,1,Kenali Angka,Angka 264 dibandingkan dengan 291 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+62,1,Kenali Angka,Angka 425 dibandingkan dengan 154 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+63,1,Kenali Angka,Angka 707 dibandingkan dengan 680 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+64,1,Kenali Angka,Angka 327 dibandingkan dengan 488 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+65,1,Kenali Angka,Angka 343 dibandingkan dengan 789 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+66,1,Kenali Angka,Angka 94 dibandingkan dengan 29 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+67,1,Kenali Angka,Angka 489 dibandingkan dengan 656 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+68,1,Kenali Angka,Angka 596 dibandingkan dengan 122 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+69,1,Kenali Angka,Angka 95 dibandingkan dengan 570 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+70,1,Kenali Angka,Angka 238 dibandingkan dengan 538 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+71,1,Kenali Angka,Angka 291 dibandingkan dengan 155 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+72,1,Kenali Angka,Angka 377 dibandingkan dengan 90 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+73,1,Kenali Angka,Angka 270 dibandingkan dengan 398 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+74,1,Kenali Angka,Angka 311 dibandingkan dengan 181 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,A,10
+75,1,Kenali Angka,Angka 468 dibandingkan dengan 873 adalah ...,lebih besar,lebih kecil,sama dengan,tidak dapat ditentukan,B,10
+76,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"730, 319, 636, 566","319, 566, 636, 730","636, 730, 319, 566","319, 730, 636, 566",B,10
+77,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"361, 713, 744, 218","218, 744, 361, 713","744, 361, 713, 218","218, 361, 713, 744",D,10
+78,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"662, 278, 175, 769","175, 278, 662, 769","769, 662, 175, 278","278, 175, 769, 662",B,10
+79,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"325, 52, 140, 450","325, 450, 52, 140","52, 140, 325, 450","325, 140, 450, 52",C,10
+80,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"912, 829, 840, 191","840, 191, 829, 912","191, 829, 840, 912","840, 912, 829, 191",C,10
+81,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"237, 846, 950, 214","237, 846, 214, 950","214, 237, 846, 950","950, 846, 237, 214",C,10
+82,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"369, 419, 531, 666","666, 419, 369, 531","531, 666, 419, 369","419, 666, 369, 531",A,10
+83,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"630, 128, 533, 456","128, 456, 533, 630","630, 456, 533, 128","128, 630, 456, 533",B,10
+84,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"690, 981, 348, 952","348, 690, 952, 981","981, 952, 690, 348","981, 690, 348, 952",B,10
+85,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"206, 440, 690, 972","206, 690, 440, 972","972, 206, 440, 690","440, 206, 690, 972",A,10
+86,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"992, 932, 825, 822","822, 932, 825, 992","822, 825, 932, 992","825, 822, 992, 932",C,10
+87,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"260, 35, 57, 496","35, 57, 260, 496","35, 496, 260, 57","496, 260, 57, 35",B,10
+88,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"778, 798, 891, 924","891, 798, 778, 924","924, 798, 891, 778","924, 778, 891, 798",A,10
+89,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"466, 571, 860, 938","571, 860, 938, 466","860, 938, 466, 571","860, 466, 571, 938",A,10
+90,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"740, 302, 250, 89","302, 89, 250, 740","89, 250, 302, 740","89, 250, 740, 302",C,10
+91,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"348, 565, 427, 487","348, 427, 487, 565","565, 427, 348, 487","427, 487, 348, 565",B,10
+92,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"509, 234, 456, 289","289, 509, 456, 234","289, 234, 509, 456","234, 289, 456, 509",D,10
+93,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"95, 148, 448, 668","95, 448, 148, 668","668, 448, 95, 148","95, 148, 668, 448",A,10
+94,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"441, 984, 780, 861","984, 441, 861, 780","984, 441, 780, 861","441, 780, 861, 984",D,10
+95,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"646, 30, 214, 869","214, 30, 646, 869","30, 214, 646, 869","869, 214, 30, 646",C,10
+96,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"848, 997, 806, 177","848, 806, 177, 997","806, 848, 997, 177","177, 806, 848, 997",D,10
+97,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"318, 723, 114, 801","114, 723, 318, 801","723, 318, 801, 114","114, 318, 723, 801",D,10
+98,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"118, 993, 453, 380","118, 380, 453, 993","453, 118, 993, 380","993, 453, 118, 380",B,10
+99,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"98, 967, 860, 295","98, 295, 860, 967","860, 295, 967, 98","98, 860, 967, 295",B,10
+100,1,Kenali Angka,Manakah urutan angka dari yang terkecil ke terbesar yang benar?,"539, 97, 205, 980","980, 539, 205, 97","97, 205, 539, 980","539, 980, 205, 97",C,10
+101,2,Hitung Cepat,Berapa 170 + 66?,226,236,246,256,B,15
+102,2,Hitung Cepat,Berapa 176 + 179?,355,375,345,365,A,15
+103,2,Hitung Cepat,Berapa 237 + 200?,437,457,427,447,A,15
+104,2,Hitung Cepat,Berapa 158 + 88?,236,266,246,256,C,15
+105,2,Hitung Cepat,Berapa 118 + 90?,198,228,218,208,D,15
+106,2,Hitung Cepat,Berapa 118 + 65?,183,193,173,203,A,15
+107,2,Hitung Cepat,Berapa 71 + 223?,304,294,314,284,B,15
+108,2,Hitung Cepat,Berapa 204 + 55?,249,279,259,269,C,15
+109,2,Hitung Cepat,Berapa 160 + 21?,201,171,191,181,D,15
+110,2,Hitung Cepat,Berapa 84 + 173?,247,267,257,277,C,15
+111,2,Hitung Cepat,Berapa 165 + 130?,295,305,285,315,A,15
+112,2,Hitung Cepat,Berapa 114 + 23?,157,137,127,147,B,15
+113,2,Hitung Cepat,Berapa 53 + 112?,155,175,165,185,C,15
+114,2,Hitung Cepat,Berapa 97 + 48?,135,165,145,155,C,15
+115,2,Hitung Cepat,Berapa 80 + 152?,222,232,242,252,B,15
+116,2,Hitung Cepat,Berapa 287 + 107?,394,404,384,414,A,15
+117,2,Hitung Cepat,Berapa 239 + 88?,317,347,337,327,D,15
+118,2,Hitung Cepat,Berapa 126 + 170?,306,296,316,286,B,15
+119,2,Hitung Cepat,Berapa 100 + 71?,191,171,181,161,B,15
+120,2,Hitung Cepat,Berapa 100 + 10?,110,120,100,130,A,15
+121,2,Hitung Cepat,Berapa 169 + 18?,187,197,207,177,A,15
+122,2,Hitung Cepat,Berapa 252 + 28?,290,280,300,270,B,15
+123,2,Hitung Cepat,Berapa 237 + 39?,296,276,286,266,B,15
+124,2,Hitung Cepat,Berapa 156 + 221?,397,387,377,367,C,15
+125,2,Hitung Cepat,Berapa 104 + 212?,316,306,336,326,A,15
+126,2,Hitung Cepat,Berapa 324 - 25?,299,309,289,319,A,15
+127,2,Hitung Cepat,Berapa 458 - 61?,397,407,417,387,A,15
+128,2,Hitung Cepat,Berapa 324 - 20?,324,294,314,304,D,15
+129,2,Hitung Cepat,Berapa 409 - 42?,377,357,387,367,D,15
+130,2,Hitung Cepat,Berapa 445 - 83?,382,372,352,362,D,15
+131,2,Hitung Cepat,Berapa 395 - 15?,380,370,400,390,A,15
+132,2,Hitung Cepat,Berapa 242 - 33?,209,219,199,229,A,15
+133,2,Hitung Cepat,Berapa 146 - 70?,76,96,86,66,A,15
+134,2,Hitung Cepat,Berapa 264 - 95?,159,179,189,169,D,15
+135,2,Hitung Cepat,Berapa 310 - 98?,212,202,222,232,A,15
+136,2,Hitung Cepat,Berapa 489 - 80?,399,429,419,409,D,15
+137,2,Hitung Cepat,Berapa 261 - 42?,239,229,219,209,C,15
+138,2,Hitung Cepat,Berapa 363 - 10?,343,353,363,373,B,15
+139,2,Hitung Cepat,Berapa 196 - 76?,120,130,140,110,A,15
+140,2,Hitung Cepat,Berapa 420 - 66?,344,364,374,354,D,15
+141,2,Hitung Cepat,Berapa 381 - 26?,355,375,365,345,A,15
+142,2,Hitung Cepat,Berapa 162 - 13?,169,149,139,159,B,15
+143,2,Hitung Cepat,Berapa 259 - 80?,199,189,169,179,D,15
+144,2,Hitung Cepat,Berapa 147 - 38?,99,129,119,109,D,15
+145,2,Hitung Cepat,Berapa 431 - 29?,402,412,392,422,A,15
+146,2,Hitung Cepat,Berapa 360 - 44?,316,306,326,336,A,15
+147,2,Hitung Cepat,Berapa 224 - 68?,146,156,176,166,B,15
+148,2,Hitung Cepat,Berapa 406 - 75?,321,351,331,341,C,15
+149,2,Hitung Cepat,Berapa 495 - 63?,432,442,452,422,A,15
+150,2,Hitung Cepat,Berapa 101 - 46?,55,65,75,45,A,15
+151,2,Hitung Cepat,Berapa 6 × 9?,54,45,60,59,A,15
+152,2,Hitung Cepat,Berapa 19 × 14?,266,252,285,271,A,15
+153,2,Hitung Cepat,Berapa 8 × 13?,104,109,91,112,A,15
+154,2,Hitung Cepat,Berapa 9 × 15?,120,144,135,140,C,15
+155,2,Hitung Cepat,Berapa 17 × 13?,208,221,238,226,B,15
+156,2,Hitung Cepat,Berapa 17 × 2?,34,39,32,51,A,15
+157,2,Hitung Cepat,Berapa 5 × 15?,60,80,75,80,C,15
+158,2,Hitung Cepat,Berapa 2 × 13?,13,26,31,28,B,15
+159,2,Hitung Cepat,Berapa 4 × 9?,36,41,40,27,A,15
+160,2,Hitung Cepat,Berapa 4 × 15?,60,64,65,45,A,15
+161,2,Hitung Cepat,Berapa 12 × 12?,156,144,132,149,B,15
+162,2,Hitung Cepat,Berapa 4 × 5?,24,25,20,15,C,15
+163,2,Hitung Cepat,Berapa 15 × 3?,42,50,60,45,D,15
+164,2,Hitung Cepat,Berapa 11 × 2?,20,27,33,22,D,15
+165,2,Hitung Cepat,Berapa 11 × 7?,82,77,88,70,B,15
+166,2,Hitung Cepat,Berapa 9 × 10?,99,90,80,95,B,15
+167,2,Hitung Cepat,Berapa 7 × 4?,33,35,24,28,D,15
+168,2,Hitung Cepat,Berapa 9 × 9?,72,86,81,90,C,15
+169,2,Hitung Cepat,Berapa 10 × 9?,100,90,95,81,B,15
+170,2,Hitung Cepat,Berapa 16 × 6?,90,101,96,112,C,15
+171,2,Hitung Cepat,Berapa 13 × 11?,143,156,148,132,A,15
+172,2,Hitung Cepat,Berapa 10 × 9?,95,100,90,81,C,15
+173,2,Hitung Cepat,Berapa 17 × 3?,51,48,56,68,A,15
+174,2,Hitung Cepat,Berapa 20 × 6?,125,140,120,114,C,15
+175,2,Hitung Cepat,Berapa 10 × 2?,25,30,18,20,D,15
+176,2,Hitung Cepat,Berapa 165 ÷ 15?,11,16,10,12,A,15
+177,2,Hitung Cepat,Berapa 40 ÷ 5?,9,8,13,7,B,15
+178,2,Hitung Cepat,Berapa 60 ÷ 12?,10,4,6,5,D,15
+179,2,Hitung Cepat,Berapa 40 ÷ 2?,21,20,25,19,B,15
+180,2,Hitung Cepat,Berapa 33 ÷ 3?,11,12,16,10,A,15
+181,2,Hitung Cepat,Berapa 32 ÷ 4?,8,13,7,9,A,15
+182,2,Hitung Cepat,Berapa 180 ÷ 10?,23,19,18,17,C,15
+183,2,Hitung Cepat,Berapa 255 ÷ 15?,17,18,22,16,A,15
+184,2,Hitung Cepat,Berapa 70 ÷ 14?,6,4,5,10,C,15
+185,2,Hitung Cepat,Berapa 126 ÷ 14?,9,10,8,14,A,15
+186,2,Hitung Cepat,Berapa 42 ÷ 3?,13,19,15,14,D,15
+187,2,Hitung Cepat,Berapa 117 ÷ 9?,13,14,18,12,A,15
+188,2,Hitung Cepat,Berapa 195 ÷ 15?,14,18,12,13,D,15
+189,2,Hitung Cepat,Berapa 18 ÷ 9?,3,2,7,1,B,15
+190,2,Hitung Cepat,Berapa 48 ÷ 12?,4,5,3,9,A,15
+191,2,Hitung Cepat,Berapa 180 ÷ 12?,16,14,20,15,D,15
+192,2,Hitung Cepat,Berapa 22 ÷ 2?,12,10,11,16,C,15
+193,2,Hitung Cepat,Berapa 95 ÷ 5?,19,18,24,20,A,15
+194,2,Hitung Cepat,Berapa 133 ÷ 7?,20,19,18,24,B,15
+195,2,Hitung Cepat,Berapa 40 ÷ 8?,5,6,4,10,A,15
+196,2,Hitung Cepat,Berapa 18 ÷ 6?,8,4,3,2,C,15
+197,2,Hitung Cepat,Berapa 81 ÷ 9?,14,10,9,8,C,15
+198,2,Hitung Cepat,Berapa 130 ÷ 10?,18,12,14,13,D,15
+199,2,Hitung Cepat,Berapa 25 ÷ 5?,6,4,5,10,C,15
+200,2,Hitung Cepat,Berapa 24 ÷ 12?,1,7,3,2,D,15
+201,3,Selisih Data,Data Wilayah A adalah 615 dan Wilayah B adalah 2412. Berapa selisih kedua data tersebut?,1822,1787,1797,1807,C,20
+202,3,Selisih Data,Data Wilayah A adalah 984 dan Wilayah B adalah 2501. Berapa selisih kedua data tersebut?,1507,1517,1542,1527,B,20
+203,3,Selisih Data,Data Wilayah A adalah 111 dan Wilayah B adalah 2541. Berapa selisih kedua data tersebut?,2440,2455,2430,2420,C,20
+204,3,Selisih Data,Data Wilayah A adalah 1126 dan Wilayah B adalah 2312. Berapa selisih kedua data tersebut?,1211,1176,1186,1196,C,20
+205,3,Selisih Data,Data Wilayah A adalah 160 dan Wilayah B adalah 639. Berapa selisih kedua data tersebut?,504,489,479,469,C,20
+206,3,Selisih Data,Data Wilayah A adalah 164 dan Wilayah B adalah 813. Berapa selisih kedua data tersebut?,659,674,649,639,C,20
+207,3,Selisih Data,Data Wilayah A adalah 1824 dan Wilayah B adalah 2254. Berapa selisih kedua data tersebut?,440,455,420,430,D,20
+208,3,Selisih Data,Data Wilayah A adalah 1936 dan Wilayah B adalah 2050. Berapa selisih kedua data tersebut?,124,114,139,104,B,20
+209,3,Selisih Data,Data Wilayah A adalah 1951 dan Wilayah B adalah 2163. Berapa selisih kedua data tersebut?,237,212,202,222,B,20
+210,3,Selisih Data,Data Wilayah A adalah 2235 dan Wilayah B adalah 2798. Berapa selisih kedua data tersebut?,588,563,573,553,B,20
+211,3,Selisih Data,Data Wilayah A adalah 349 dan Wilayah B adalah 2061. Berapa selisih kedua data tersebut?,1702,1712,1722,1737,B,20
+212,3,Selisih Data,Data Wilayah A adalah 1916 dan Wilayah B adalah 2108. Berapa selisih kedua data tersebut?,182,202,217,192,D,20
+213,3,Selisih Data,Data Wilayah A adalah 707 dan Wilayah B adalah 2591. Berapa selisih kedua data tersebut?,1874,1894,1909,1884,D,20
+214,3,Selisih Data,Data Wilayah A adalah 2657 dan Wilayah B adalah 2693. Berapa selisih kedua data tersebut?,36,61,46,26,A,20
+215,3,Selisih Data,Data Wilayah A adalah 1958 dan Wilayah B adalah 2170. Berapa selisih kedua data tersebut?,222,202,212,237,C,20
+216,3,Selisih Data,Data Wilayah A adalah 2766 dan Wilayah B adalah 2781. Berapa selisih kedua data tersebut?,15,5,40,25,A,20
+217,3,Selisih Data,Data Wilayah A adalah 1035 dan Wilayah B adalah 1794. Berapa selisih kedua data tersebut?,759,784,769,749,A,20
+218,3,Selisih Data,Data Wilayah A adalah 489 dan Wilayah B adalah 1803. Berapa selisih kedua data tersebut?,1314,1339,1324,1304,A,20
+219,3,Selisih Data,Data Wilayah A adalah 1144 dan Wilayah B adalah 2824. Berapa selisih kedua data tersebut?,1705,1690,1680,1670,C,20
+220,3,Selisih Data,Data Wilayah A adalah 374 dan Wilayah B adalah 473. Berapa selisih kedua data tersebut?,89,109,124,99,D,20
+221,3,Selisih Data,Data Wilayah A adalah 495 dan Wilayah B adalah 1626. Berapa selisih kedua data tersebut?,1156,1131,1121,1141,B,20
+222,3,Selisih Data,Data Wilayah A adalah 2400 dan Wilayah B adalah 2502. Berapa selisih kedua data tersebut?,112,102,127,92,B,20
+223,3,Selisih Data,Data Wilayah A adalah 1548 dan Wilayah B adalah 1782. Berapa selisih kedua data tersebut?,244,234,224,259,B,20
+224,3,Selisih Data,Data Wilayah A adalah 1278 dan Wilayah B adalah 2559. Berapa selisih kedua data tersebut?,1306,1281,1291,1271,B,20
+225,3,Selisih Data,Data Wilayah A adalah 2178 dan Wilayah B adalah 2467. Berapa selisih kedua data tersebut?,279,314,289,299,C,20
+226,3,Selisih Data,Data Wilayah A adalah 543 dan Wilayah B adalah 1018. Berapa selisih kedua data tersebut?,475,485,500,465,A,20
+227,3,Selisih Data,Data Wilayah A adalah 570 dan Wilayah B adalah 1241. Berapa selisih kedua data tersebut?,661,671,696,681,B,20
+228,3,Selisih Data,Data Wilayah A adalah 2594 dan Wilayah B adalah 2794. Berapa selisih kedua data tersebut?,210,225,200,190,C,20
+229,3,Selisih Data,Data Wilayah A adalah 1219 dan Wilayah B adalah 2978. Berapa selisih kedua data tersebut?,1759,1784,1769,1749,A,20
+230,3,Selisih Data,Data Wilayah A adalah 125 dan Wilayah B adalah 843. Berapa selisih kedua data tersebut?,718,743,708,728,A,20
+231,3,Selisih Data,Data Wilayah A adalah 385 dan Wilayah B adalah 681. Berapa selisih kedua data tersebut?,306,286,321,296,D,20
+232,3,Selisih Data,Data Wilayah A adalah 1640 dan Wilayah B adalah 1819. Berapa selisih kedua data tersebut?,169,179,189,204,B,20
+233,3,Selisih Data,Data Wilayah A adalah 1376 dan Wilayah B adalah 1615. Berapa selisih kedua data tersebut?,249,239,264,229,B,20
+234,3,Selisih Data,Data Wilayah A adalah 315 dan Wilayah B adalah 737. Berapa selisih kedua data tersebut?,447,422,412,432,B,20
+235,3,Selisih Data,Data Wilayah A adalah 434 dan Wilayah B adalah 2860. Berapa selisih kedua data tersebut?,2426,2451,2436,2416,A,20
+236,3,Selisih Data,Data Wilayah A adalah 2089 dan Wilayah B adalah 2586. Berapa selisih kedua data tersebut?,497,487,507,522,A,20
+237,3,Selisih Data,Data Wilayah A adalah 982 dan Wilayah B adalah 2198. Berapa selisih kedua data tersebut?,1241,1206,1226,1216,D,20
+238,3,Selisih Data,Data Wilayah A adalah 554 dan Wilayah B adalah 1260. Berapa selisih kedua data tersebut?,706,716,696,731,A,20
+239,3,Selisih Data,Data Wilayah A adalah 286 dan Wilayah B adalah 1003. Berapa selisih kedua data tersebut?,727,717,707,742,B,20
+240,3,Selisih Data,Data Wilayah A adalah 131 dan Wilayah B adalah 937. Berapa selisih kedua data tersebut?,816,831,806,796,C,20
+241,3,Selisih Data,Data Wilayah A adalah 1146 dan Wilayah B adalah 1285. Berapa selisih kedua data tersebut?,149,164,139,129,C,20
+242,3,Selisih Data,Data Wilayah A adalah 1863 dan Wilayah B adalah 2137. Berapa selisih kedua data tersebut?,264,299,274,284,C,20
+243,3,Selisih Data,Data Wilayah A adalah 2281 dan Wilayah B adalah 2982. Berapa selisih kedua data tersebut?,701,726,691,711,A,20
+244,3,Selisih Data,Data Wilayah A adalah 395 dan Wilayah B adalah 1726. Berapa selisih kedua data tersebut?,1321,1356,1341,1331,D,20
+245,3,Selisih Data,Data Wilayah A adalah 418 dan Wilayah B adalah 1983. Berapa selisih kedua data tersebut?,1565,1575,1590,1555,A,20
+246,3,Selisih Data,Data Wilayah A adalah 1756 dan Wilayah B adalah 2448. Berapa selisih kedua data tersebut?,682,692,702,717,B,20
+247,3,Selisih Data,Data Wilayah A adalah 185 dan Wilayah B adalah 1759. Berapa selisih kedua data tersebut?,1599,1584,1574,1564,C,20
+248,3,Selisih Data,Data Wilayah A adalah 1582 dan Wilayah B adalah 2924. Berapa selisih kedua data tersebut?,1332,1367,1352,1342,D,20
+249,3,Selisih Data,Data Wilayah A adalah 1096 dan Wilayah B adalah 1884. Berapa selisih kedua data tersebut?,798,788,778,813,B,20
+250,3,Selisih Data,Data Wilayah A adalah 1370 dan Wilayah B adalah 1721. Berapa selisih kedua data tersebut?,376,361,351,341,C,20
+251,3,Selisih Data,"Data A = 1695, B = 444, C = 256. Berapa selisih nilai terbesar dan terkecil?",1459,1489,1419,1439,D,20
+252,3,Selisih Data,"Data A = 1955, B = 1689, C = 815. Berapa selisih nilai terbesar dan terkecil?",1160,1140,1190,1120,B,20
+253,3,Selisih Data,"Data A = 583, B = 310, C = 399. Berapa selisih nilai terbesar dan terkecil?",293,323,273,253,C,20
+254,3,Selisih Data,"Data A = 1333, B = 413, C = 1656. Berapa selisih nilai terbesar dan terkecil?",1223,1263,1293,1243,D,20
+255,3,Selisih Data,"Data A = 1050, B = 1645, C = 1254. Berapa selisih nilai terbesar dan terkecil?",595,615,575,645,A,20
+256,3,Selisih Data,"Data A = 1869, B = 1384, C = 747. Berapa selisih nilai terbesar dan terkecil?",1102,1122,1172,1142,B,20
+257,3,Selisih Data,"Data A = 1060, B = 1005, C = 1393. Berapa selisih nilai terbesar dan terkecil?",438,388,408,368,B,20
+258,3,Selisih Data,"Data A = 820, B = 1139, C = 251. Berapa selisih nilai terbesar dan terkecil?",888,938,908,868,A,20
+259,3,Selisih Data,"Data A = 177, B = 216, C = 855. Berapa selisih nilai terbesar dan terkecil?",698,728,678,658,C,20
+260,3,Selisih Data,"Data A = 1359, B = 1316, C = 1138. Berapa selisih nilai terbesar dan terkecil?",201,221,241,271,B,20
+261,3,Selisih Data,"Data A = 1021, B = 1961, C = 1758. Berapa selisih nilai terbesar dan terkecil?",940,920,990,960,A,20
+262,3,Selisih Data,"Data A = 1126, B = 408, C = 226. Berapa selisih nilai terbesar dan terkecil?",880,920,900,950,C,20
+263,3,Selisih Data,"Data A = 1562, B = 272, C = 1133. Berapa selisih nilai terbesar dan terkecil?",1340,1270,1290,1310,C,20
+264,3,Selisih Data,"Data A = 1549, B = 996, C = 999. Berapa selisih nilai terbesar dan terkecil?",553,533,603,573,A,20
+265,3,Selisih Data,"Data A = 1979, B = 679, C = 893. Berapa selisih nilai terbesar dan terkecil?",1280,1300,1320,1350,B,20
+266,3,Selisih Data,"Data A = 1716, B = 1392, C = 1425. Berapa selisih nilai terbesar dan terkecil?",374,344,324,304,C,20
+267,3,Selisih Data,"Data A = 293, B = 1242, C = 1489. Berapa selisih nilai terbesar dan terkecil?",1196,1176,1216,1246,A,20
+268,3,Selisih Data,"Data A = 1582, B = 1844, C = 1444. Berapa selisih nilai terbesar dan terkecil?",380,400,450,420,B,20
+269,3,Selisih Data,"Data A = 1293, B = 1459, C = 389. Berapa selisih nilai terbesar dan terkecil?",1070,1120,1090,1050,A,20
+270,3,Selisih Data,"Data A = 364, B = 1318, C = 1551. Berapa selisih nilai terbesar dan terkecil?",1237,1167,1207,1187,D,20
+271,3,Selisih Data,"Data A = 1417, B = 1721, C = 772. Berapa selisih nilai terbesar dan terkecil?",999,949,929,969,B,20
+272,3,Selisih Data,"Data A = 1423, B = 1473, C = 967. Berapa selisih nilai terbesar dan terkecil?",556,526,506,486,C,20
+273,3,Selisih Data,"Data A = 732, B = 469, C = 538. Berapa selisih nilai terbesar dan terkecil?",313,263,283,243,B,20
+274,3,Selisih Data,"Data A = 563, B = 381, C = 417. Berapa selisih nilai terbesar dan terkecil?",162,232,202,182,D,20
+275,3,Selisih Data,"Data A = 1139, B = 1678, C = 1205. Berapa selisih nilai terbesar dan terkecil?",589,559,519,539,D,20
+276,3,Selisih Data,Jumlah penduduk awal 2731 orang dan kemudian menjadi 2818 orang. Berapa pertambahannya?,97,77,87,112,C,20
+277,3,Selisih Data,Jumlah penduduk awal 940 orang dan kemudian menjadi 1385 orang. Berapa pertambahannya?,445,470,435,455,A,20
+278,3,Selisih Data,Jumlah penduduk awal 378 orang dan kemudian menjadi 608 orang. Berapa pertambahannya?,240,230,255,220,B,20
+279,3,Selisih Data,Jumlah penduduk awal 2019 orang dan kemudian menjadi 2351 orang. Berapa pertambahannya?,332,342,357,322,A,20
+280,3,Selisih Data,Jumlah penduduk awal 1158 orang dan kemudian menjadi 1451 orang. Berapa pertambahannya?,293,283,318,303,A,20
+281,3,Selisih Data,Jumlah penduduk awal 994 orang dan kemudian menjadi 1202 orang. Berapa pertambahannya?,208,198,218,233,A,20
+282,3,Selisih Data,Jumlah penduduk awal 1764 orang dan kemudian menjadi 2041 orang. Berapa pertambahannya?,287,267,277,302,C,20
+283,3,Selisih Data,Jumlah penduduk awal 2676 orang dan kemudian menjadi 2766 orang. Berapa pertambahannya?,115,100,90,80,C,20
+284,3,Selisih Data,Jumlah penduduk awal 1720 orang dan kemudian menjadi 2023 orang. Berapa pertambahannya?,313,328,293,303,D,20
+285,3,Selisih Data,Jumlah penduduk awal 1367 orang dan kemudian menjadi 1429 orang. Berapa pertambahannya?,62,52,87,72,A,20
+286,3,Selisih Data,Jumlah penduduk awal 2302 orang dan kemudian menjadi 2397 orang. Berapa pertambahannya?,105,85,95,120,C,20
+287,3,Selisih Data,Jumlah penduduk awal 2047 orang dan kemudian menjadi 2519 orang. Berapa pertambahannya?,497,482,472,462,C,20
+288,3,Selisih Data,Jumlah penduduk awal 418 orang dan kemudian menjadi 640 orang. Berapa pertambahannya?,247,232,222,212,C,20
+289,3,Selisih Data,Jumlah penduduk awal 534 orang dan kemudian menjadi 745 orang. Berapa pertambahannya?,201,236,211,221,C,20
+290,3,Selisih Data,Jumlah penduduk awal 605 orang dan kemudian menjadi 1054 orang. Berapa pertambahannya?,459,474,449,439,C,20
+291,3,Selisih Data,Jumlah penduduk awal 356 orang dan kemudian menjadi 522 orang. Berapa pertambahannya?,176,166,156,191,B,20
+292,3,Selisih Data,Jumlah penduduk awal 2121 orang dan kemudian menjadi 2370 orang. Berapa pertambahannya?,259,239,274,249,D,20
+293,3,Selisih Data,Jumlah penduduk awal 1248 orang dan kemudian menjadi 1378 orang. Berapa pertambahannya?,130,155,120,140,A,20
+294,3,Selisih Data,Jumlah penduduk awal 655 orang dan kemudian menjadi 1072 orang. Berapa pertambahannya?,442,427,417,407,C,20
+295,3,Selisih Data,Jumlah penduduk awal 699 orang dan kemudian menjadi 743 orang. Berapa pertambahannya?,44,34,69,54,A,20
+296,3,Selisih Data,Jumlah penduduk awal 457 orang dan kemudian menjadi 533 orang. Berapa pertambahannya?,86,76,66,101,B,20
+297,3,Selisih Data,Jumlah penduduk awal 2788 orang dan kemudian menjadi 3071 orang. Berapa pertambahannya?,308,283,273,293,B,20
+298,3,Selisih Data,Jumlah penduduk awal 1393 orang dan kemudian menjadi 1632 orang. Berapa pertambahannya?,264,249,229,239,D,20
+299,3,Selisih Data,Jumlah penduduk awal 1185 orang dan kemudian menjadi 1497 orang. Berapa pertambahannya?,322,302,312,337,C,20
+300,3,Selisih Data,Jumlah penduduk awal 2344 orang dan kemudian menjadi 2548 orang. Berapa pertambahannya?,214,229,194,204,D,20
+301,4,Persentase,Berapa 50% dari 800?,405,480,320,400,D,25
+302,4,Persentase,Berapa 25% dari 600?,90,155,210,150,D,25
+303,4,Persentase,Berapa 20% dari 600?,125,180,60,120,D,25
+304,4,Persentase,Berapa 5% dari 300?,15,45,20,0,A,25
+305,4,Persentase,Berapa 50% dari 300?,180,150,120,155,B,25
+306,4,Persentase,Berapa 10% dari 300?,0,60,30,35,C,25
+307,4,Persentase,Berapa 5% dari 400?,0,25,20,60,C,25
+308,4,Persentase,Berapa 40% dari 500?,150,200,250,205,B,25
+309,4,Persentase,Berapa 25% dari 400?,105,140,100,60,C,25
+310,4,Persentase,Berapa 10% dari 500?,50,55,100,0,A,25
+311,4,Persentase,Berapa 40% dari 1000?,405,500,400,300,C,25
+312,4,Persentase,Berapa 30% dari 1000?,305,400,300,200,C,25
+313,4,Persentase,Berapa 40% dari 200?,80,85,60,100,A,25
+314,4,Persentase,Berapa 10% dari 600?,65,0,120,60,D,25
+315,4,Persentase,Berapa 50% dari 500?,200,300,250,255,C,25
+316,4,Persentase,Berapa 50% dari 600?,305,360,240,300,D,25
+317,4,Persentase,Berapa 40% dari 2000?,1000,800,805,600,B,25
+318,4,Persentase,Berapa 40% dari 200?,100,80,85,60,B,25
+319,4,Persentase,Berapa 15% dari 100?,25,5,15,20,C,25
+320,4,Persentase,Berapa 20% dari 200?,40,45,60,20,A,25
+321,4,Persentase,Berapa 5% dari 2000?,100,105,0,300,A,25
+322,4,Persentase,Berapa 30% dari 600?,240,120,180,185,C,25
+323,4,Persentase,Berapa 30% dari 1200?,360,240,480,365,A,25
+324,4,Persentase,Berapa 10% dari 400?,80,45,0,40,D,25
+325,4,Persentase,Berapa 40% dari 1000?,405,300,500,400,D,25
+326,4,Persentase,Berapa 20% dari 1000?,200,300,205,100,A,25
+327,4,Persentase,Berapa 10% dari 400?,0,45,40,80,C,25
+328,4,Persentase,Berapa 50% dari 300?,155,180,120,150,D,25
+329,4,Persentase,Berapa 10% dari 600?,65,60,120,0,B,25
+330,4,Persentase,Berapa 30% dari 300?,95,60,90,120,C,25
+331,4,Persentase,Berapa 20% dari 300?,30,90,60,65,C,25
+332,4,Persentase,Berapa 30% dari 1200?,480,360,240,365,B,25
+333,4,Persentase,Berapa 10% dari 2000?,205,0,400,200,D,25
+334,4,Persentase,Berapa 40% dari 1000?,500,400,300,405,B,25
+335,4,Persentase,Berapa 30% dari 300?,95,60,120,90,D,25
+336,4,Persentase,Berapa 30% dari 1200?,365,360,240,480,B,25
+337,4,Persentase,Berapa 40% dari 300?,150,90,125,120,D,25
+338,4,Persentase,Berapa 15% dari 500?,25,75,80,125,B,25
+339,4,Persentase,Berapa 25% dari 600?,90,155,210,150,D,25
+340,4,Persentase,Berapa 25% dari 1200?,300,305,180,420,A,25
+341,4,Persentase,400 adalah berapa persen dari 1000?,45,50,35,40,D,25
+342,4,Persentase,400 adalah berapa persen dari 1000?,35,50,40,45,C,25
+343,4,Persentase,800 adalah berapa persen dari 2000?,45,35,50,40,D,25
+344,4,Persentase,100 adalah berapa persen dari 200?,55,50,60,45,B,25
+345,4,Persentase,800 adalah berapa persen dari 2000?,45,40,35,50,B,25
+346,4,Persentase,400 adalah berapa persen dari 800?,50,55,60,45,A,25
+347,4,Persentase,160 adalah berapa persen dari 800?,20,15,25,30,A,25
+348,4,Persentase,100 adalah berapa persen dari 200?,45,55,60,50,D,25
+349,4,Persentase,240 adalah berapa persen dari 800?,25,35,30,40,C,25
+350,4,Persentase,200 adalah berapa persen dari 1000?,20,25,30,15,A,25
+351,4,Persentase,300 adalah berapa persen dari 1200?,20,30,25,35,C,25
+352,4,Persentase,400 adalah berapa persen dari 1000?,35,50,45,40,D,25
+353,4,Persentase,80 adalah berapa persen dari 800?,20,10,15,5,B,25
+354,4,Persentase,40 adalah berapa persen dari 400?,20,5,15,10,D,25
+355,4,Persentase,800 adalah berapa persen dari 2000?,45,35,40,50,C,25
+356,4,Persentase,500 adalah berapa persen dari 2000?,30,35,25,20,C,25
+357,4,Persentase,320 adalah berapa persen dari 800?,40,35,45,50,A,25
+358,4,Persentase,80 adalah berapa persen dari 800?,20,5,15,10,D,25
+359,4,Persentase,80 adalah berapa persen dari 400?,25,30,20,15,C,25
+360,4,Persentase,150 adalah berapa persen dari 500?,25,30,35,40,B,25
+361,4,Persentase,200 adalah berapa persen dari 2000?,5,15,10,20,C,25
+362,4,Persentase,300 adalah berapa persen dari 1200?,20,25,30,35,B,25
+363,4,Persentase,80 adalah berapa persen dari 800?,10,5,20,15,A,25
+364,4,Persentase,60 adalah berapa persen dari 200?,30,35,25,40,A,25
+365,4,Persentase,800 adalah berapa persen dari 2000?,45,35,50,40,D,25
+366,4,Persentase,200 adalah berapa persen dari 800?,25,30,35,20,A,25
+367,4,Persentase,400 adalah berapa persen dari 2000?,20,30,15,25,A,25
+368,4,Persentase,100 adalah berapa persen dari 1000?,15,5,20,10,D,25
+369,4,Persentase,300 adalah berapa persen dari 1200?,25,30,20,35,A,25
+370,4,Persentase,160 adalah berapa persen dari 400?,40,35,50,45,A,25
+371,4,Persentase,Nilai awal 200 naik 50%. Berapa nilai akhirnya?,300,210,290,310,A,25
+372,4,Persentase,Nilai awal 500 naik 50%. Berapa nilai akhirnya?,740,750,510,760,B,25
+373,4,Persentase,Nilai awal 300 naik 25%. Berapa nilai akhirnya?,365,385,310,375,D,25
+374,4,Persentase,Nilai awal 1000 naik 10%. Berapa nilai akhirnya?,1110,1100,1010,1090,B,25
+375,4,Persentase,Nilai awal 800 naik 10%. Berapa nilai akhirnya?,890,810,880,870,C,25
+376,4,Persentase,Nilai awal 200 naik 20%. Berapa nilai akhirnya?,210,230,250,240,D,25
+377,4,Persentase,Nilai awal 200 naik 10%. Berapa nilai akhirnya?,220,230,210,210,A,25
+378,4,Persentase,Nilai awal 200 naik 50%. Berapa nilai akhirnya?,300,310,290,210,A,25
+379,4,Persentase,Nilai awal 1000 naik 10%. Berapa nilai akhirnya?,1090,1100,1110,1010,B,25
+380,4,Persentase,Nilai awal 500 naik 25%. Berapa nilai akhirnya?,625,510,635,615,A,25
+381,4,Persentase,Nilai awal 300 naik 20%. Berapa nilai akhirnya?,360,310,370,350,A,25
+382,4,Persentase,Nilai awal 500 naik 25%. Berapa nilai akhirnya?,625,510,615,635,A,25
+383,4,Persentase,Nilai awal 200 naik 20%. Berapa nilai akhirnya?,240,210,230,250,A,25
+384,4,Persentase,Nilai awal 200 naik 25%. Berapa nilai akhirnya?,210,250,240,260,B,25
+385,4,Persentase,Nilai awal 800 naik 50%. Berapa nilai akhirnya?,1200,1190,810,1210,A,25
+386,4,Persentase,Nilai awal 500 naik 25%. Berapa nilai akhirnya?,615,510,625,635,C,25
+387,4,Persentase,Nilai awal 400 naik 25%. Berapa nilai akhirnya?,510,500,490,410,B,25
+388,4,Persentase,Nilai awal 300 naik 10%. Berapa nilai akhirnya?,330,320,310,340,A,25
+389,4,Persentase,Nilai awal 800 naik 50%. Berapa nilai akhirnya?,1210,1190,1200,810,C,25
+390,4,Persentase,Nilai awal 500 naik 25%. Berapa nilai akhirnya?,615,635,625,510,C,25
+391,4,Persentase,Nilai awal 200 naik 10%. Berapa nilai akhirnya?,210,220,230,210,B,25
+392,4,Persentase,Nilai awal 100 naik 10%. Berapa nilai akhirnya?,110,120,110,100,A,25
+393,4,Persentase,Nilai awal 100 naik 20%. Berapa nilai akhirnya?,110,110,130,120,D,25
+394,4,Persentase,Nilai awal 400 naik 50%. Berapa nilai akhirnya?,410,600,610,590,B,25
+395,4,Persentase,Nilai awal 1000 naik 25%. Berapa nilai akhirnya?,1240,1250,1010,1260,B,25
+396,4,Persentase,Nilai awal 1000 naik 10%. Berapa nilai akhirnya?,1090,1100,1110,1010,B,25
+397,4,Persentase,Nilai awal 200 naik 50%. Berapa nilai akhirnya?,310,290,300,210,C,25
+398,4,Persentase,Nilai awal 1000 naik 50%. Berapa nilai akhirnya?,1500,1490,1510,1010,A,25
+399,4,Persentase,Nilai awal 100 naik 10%. Berapa nilai akhirnya?,110,110,100,120,A,25
+400,4,Persentase,Nilai awal 300 naik 25%. Berapa nilai akhirnya?,375,310,385,365,A,25
+401,5,Benar atau Salah,Mean adalah nilai rata-rata dari sekumpulan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+402,5,Benar atau Salah,Median adalah nilai yang berada di tengah setelah data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+403,5,Benar atau Salah,Modus adalah nilai yang paling sering muncul.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+404,5,Benar atau Salah,Data kategorik selalu berupa angka.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+405,5,Benar atau Salah,Sampel merupakan sebagian dari populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+406,5,Benar atau Salah,Populasi adalah seluruh objek yang menjadi sasaran penelitian.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+407,5,Benar atau Salah,Range diperoleh dari nilai terbesar dikurangi nilai terkecil.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+408,5,Benar atau Salah,Mean dan median selalu memiliki nilai yang sama.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+409,5,Benar atau Salah,Data yang sudah diurutkan memudahkan pencarian median.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+410,5,Benar atau Salah,Persentase 50% sama dengan setengah dari keseluruhan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+411,5,Benar atau Salah,Angka 0 selalu berarti tidak ada data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+412,5,Benar atau Salah,Tabel dapat digunakan untuk menyajikan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+413,5,Benar atau Salah,Diagram batang dapat digunakan untuk membandingkan kategori.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+414,5,Benar atau Salah,Semua data statistik harus berbentuk desimal.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+415,5,Benar atau Salah,Outlier adalah data yang sangat berbeda dari pola umum.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+416,5,Benar atau Salah,Kuesioner dapat digunakan untuk mengumpulkan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+417,5,Benar atau Salah,Sensus hanya mengambil sebagian anggota populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+418,5,Benar atau Salah,Sampel harus selalu berjumlah satu orang.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+419,5,Benar atau Salah,Median dipengaruhi oleh urutan data sebelum data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+420,5,Benar atau Salah,Modus dapat memiliki lebih dari satu nilai.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+421,5,Benar atau Salah,Mean adalah nilai rata-rata dari sekumpulan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+422,5,Benar atau Salah,Median adalah nilai yang berada di tengah setelah data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+423,5,Benar atau Salah,Modus adalah nilai yang paling sering muncul.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+424,5,Benar atau Salah,Data kategorik selalu berupa angka.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+425,5,Benar atau Salah,Sampel merupakan sebagian dari populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+426,5,Benar atau Salah,Populasi adalah seluruh objek yang menjadi sasaran penelitian.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+427,5,Benar atau Salah,Range diperoleh dari nilai terbesar dikurangi nilai terkecil.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+428,5,Benar atau Salah,Mean dan median selalu memiliki nilai yang sama.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+429,5,Benar atau Salah,Data yang sudah diurutkan memudahkan pencarian median.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+430,5,Benar atau Salah,Persentase 50% sama dengan setengah dari keseluruhan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+431,5,Benar atau Salah,Angka 0 selalu berarti tidak ada data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+432,5,Benar atau Salah,Tabel dapat digunakan untuk menyajikan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+433,5,Benar atau Salah,Diagram batang dapat digunakan untuk membandingkan kategori.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+434,5,Benar atau Salah,Semua data statistik harus berbentuk desimal.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+435,5,Benar atau Salah,Outlier adalah data yang sangat berbeda dari pola umum.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+436,5,Benar atau Salah,Kuesioner dapat digunakan untuk mengumpulkan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+437,5,Benar atau Salah,Sensus hanya mengambil sebagian anggota populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+438,5,Benar atau Salah,Sampel harus selalu berjumlah satu orang.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+439,5,Benar atau Salah,Median dipengaruhi oleh urutan data sebelum data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+440,5,Benar atau Salah,Modus dapat memiliki lebih dari satu nilai.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+441,5,Benar atau Salah,Mean adalah nilai rata-rata dari sekumpulan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+442,5,Benar atau Salah,Median adalah nilai yang berada di tengah setelah data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+443,5,Benar atau Salah,Modus adalah nilai yang paling sering muncul.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+444,5,Benar atau Salah,Data kategorik selalu berupa angka.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+445,5,Benar atau Salah,Sampel merupakan sebagian dari populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+446,5,Benar atau Salah,Populasi adalah seluruh objek yang menjadi sasaran penelitian.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+447,5,Benar atau Salah,Range diperoleh dari nilai terbesar dikurangi nilai terkecil.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+448,5,Benar atau Salah,Mean dan median selalu memiliki nilai yang sama.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+449,5,Benar atau Salah,Data yang sudah diurutkan memudahkan pencarian median.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+450,5,Benar atau Salah,Persentase 50% sama dengan setengah dari keseluruhan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+451,5,Benar atau Salah,Angka 0 selalu berarti tidak ada data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+452,5,Benar atau Salah,Tabel dapat digunakan untuk menyajikan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+453,5,Benar atau Salah,Diagram batang dapat digunakan untuk membandingkan kategori.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+454,5,Benar atau Salah,Semua data statistik harus berbentuk desimal.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+455,5,Benar atau Salah,Outlier adalah data yang sangat berbeda dari pola umum.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+456,5,Benar atau Salah,Kuesioner dapat digunakan untuk mengumpulkan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+457,5,Benar atau Salah,Sensus hanya mengambil sebagian anggota populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+458,5,Benar atau Salah,Sampel harus selalu berjumlah satu orang.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+459,5,Benar atau Salah,Median dipengaruhi oleh urutan data sebelum data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+460,5,Benar atau Salah,Modus dapat memiliki lebih dari satu nilai.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+461,5,Benar atau Salah,Mean adalah nilai rata-rata dari sekumpulan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+462,5,Benar atau Salah,Median adalah nilai yang berada di tengah setelah data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+463,5,Benar atau Salah,Modus adalah nilai yang paling sering muncul.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+464,5,Benar atau Salah,Data kategorik selalu berupa angka.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+465,5,Benar atau Salah,Sampel merupakan sebagian dari populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+466,5,Benar atau Salah,Populasi adalah seluruh objek yang menjadi sasaran penelitian.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+467,5,Benar atau Salah,Range diperoleh dari nilai terbesar dikurangi nilai terkecil.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+468,5,Benar atau Salah,Mean dan median selalu memiliki nilai yang sama.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+469,5,Benar atau Salah,Data yang sudah diurutkan memudahkan pencarian median.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+470,5,Benar atau Salah,Persentase 50% sama dengan setengah dari keseluruhan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+471,5,Benar atau Salah,Angka 0 selalu berarti tidak ada data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+472,5,Benar atau Salah,Tabel dapat digunakan untuk menyajikan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+473,5,Benar atau Salah,Diagram batang dapat digunakan untuk membandingkan kategori.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+474,5,Benar atau Salah,Semua data statistik harus berbentuk desimal.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+475,5,Benar atau Salah,Outlier adalah data yang sangat berbeda dari pola umum.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+476,5,Benar atau Salah,Kuesioner dapat digunakan untuk mengumpulkan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+477,5,Benar atau Salah,Sensus hanya mengambil sebagian anggota populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+478,5,Benar atau Salah,Sampel harus selalu berjumlah satu orang.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+479,5,Benar atau Salah,Median dipengaruhi oleh urutan data sebelum data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+480,5,Benar atau Salah,Modus dapat memiliki lebih dari satu nilai.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+481,5,Benar atau Salah,Mean adalah nilai rata-rata dari sekumpulan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+482,5,Benar atau Salah,Median adalah nilai yang berada di tengah setelah data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+483,5,Benar atau Salah,Modus adalah nilai yang paling sering muncul.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+484,5,Benar atau Salah,Data kategorik selalu berupa angka.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+485,5,Benar atau Salah,Sampel merupakan sebagian dari populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+486,5,Benar atau Salah,Populasi adalah seluruh objek yang menjadi sasaran penelitian.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+487,5,Benar atau Salah,Range diperoleh dari nilai terbesar dikurangi nilai terkecil.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+488,5,Benar atau Salah,Mean dan median selalu memiliki nilai yang sama.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+489,5,Benar atau Salah,Data yang sudah diurutkan memudahkan pencarian median.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+490,5,Benar atau Salah,Persentase 50% sama dengan setengah dari keseluruhan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+491,5,Benar atau Salah,Angka 0 selalu berarti tidak ada data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+492,5,Benar atau Salah,Tabel dapat digunakan untuk menyajikan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+493,5,Benar atau Salah,Diagram batang dapat digunakan untuk membandingkan kategori.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+494,5,Benar atau Salah,Semua data statistik harus berbentuk desimal.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+495,5,Benar atau Salah,Outlier adalah data yang sangat berbeda dari pola umum.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+496,5,Benar atau Salah,Kuesioner dapat digunakan untuk mengumpulkan data.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+497,5,Benar atau Salah,Sensus hanya mengambil sebagian anggota populasi.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+498,5,Benar atau Salah,Sampel harus selalu berjumlah satu orang.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+499,5,Benar atau Salah,Median dipengaruhi oleh urutan data sebelum data diurutkan.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,B,30
+500,5,Benar atau Salah,Modus dapat memiliki lebih dari satu nilai.,Benar,Salah,Tidak dapat ditentukan,Hanya berlaku untuk data genap,A,30
+501,6,Logika Data,"Data A=1921, B=374, C=1842, D=1132. Data manakah yang paling tinggi?",1842,1921,374,1132,B,35
+502,6,Logika Data,"Data A=1756, B=330, C=777, D=432. Data manakah yang paling tinggi?",1756,330,777,432,A,35
+503,6,Logika Data,"Data A=1571, B=481, C=128, D=1608. Data manakah yang paling tinggi?",128,1608,1571,481,B,35
+504,6,Logika Data,"Data A=459, B=1351, C=1853, D=1408. Data manakah yang paling tinggi?",1853,1351,459,1408,A,35
+505,6,Logika Data,"Data A=277, B=920, C=1470, D=295. Data manakah yang paling tinggi?",920,295,1470,277,C,35
+506,6,Logika Data,"Data A=762, B=608, C=113, D=634. Data manakah yang paling tinggi?",113,608,762,634,C,35
+507,6,Logika Data,"Data A=1643, B=646, C=775, D=718. Data manakah yang paling tinggi?",718,775,646,1643,D,35
+508,6,Logika Data,"Data A=1518, B=583, C=227, D=1467. Data manakah yang paling tinggi?",1467,227,583,1518,D,35
+509,6,Logika Data,"Data A=427, B=930, C=1505, D=1129. Data manakah yang paling tinggi?",427,1505,1129,930,B,35
+510,6,Logika Data,"Data A=1408, B=1976, C=704, D=852. Data manakah yang paling tinggi?",852,704,1976,1408,C,35
+511,6,Logika Data,"Data A=1079, B=413, C=1031, D=1631. Data manakah yang paling tinggi?",1631,1031,1079,413,A,35
+512,6,Logika Data,"Data A=1651, B=1200, C=1742, D=1460. Data manakah yang paling tinggi?",1460,1200,1742,1651,C,35
+513,6,Logika Data,"Data A=1176, B=1014, C=1181, D=1541. Data manakah yang paling tinggi?",1176,1181,1541,1014,C,35
+514,6,Logika Data,"Data A=226, B=1797, C=1221, D=1949. Data manakah yang paling tinggi?",1221,1949,1797,226,B,35
+515,6,Logika Data,"Data A=436, B=771, C=1849, D=1165. Data manakah yang paling tinggi?",436,771,1849,1165,C,35
+516,6,Logika Data,"Data A=1568, B=1294, C=1101, D=286. Data manakah yang paling tinggi?",1101,1294,1568,286,C,35
+517,6,Logika Data,"Data A=370, B=1151, C=950, D=1035. Data manakah yang paling tinggi?",1035,370,950,1151,D,35
+518,6,Logika Data,"Data A=1477, B=1752, C=731, D=1581. Data manakah yang paling tinggi?",1581,731,1477,1752,D,35
+519,6,Logika Data,"Data A=1772, B=106, C=1627, D=546. Data manakah yang paling tinggi?",1627,106,546,1772,D,35
+520,6,Logika Data,"Data A=805, B=1534, C=230, D=1208. Data manakah yang paling tinggi?",230,805,1208,1534,D,35
+521,6,Logika Data,"Data A=164, B=687, C=937, D=468. Data manakah yang paling tinggi?",937,468,687,164,A,35
+522,6,Logika Data,"Data A=866, B=1925, C=883, D=1018. Data manakah yang paling tinggi?",883,1925,866,1018,B,35
+523,6,Logika Data,"Data A=1498, B=1455, C=1891, D=1204. Data manakah yang paling tinggi?",1891,1204,1455,1498,A,35
+524,6,Logika Data,"Data A=342, B=465, C=1200, D=904. Data manakah yang paling tinggi?",904,1200,465,342,B,35
+525,6,Logika Data,"Data A=1809, B=107, C=1648, D=146. Data manakah yang paling tinggi?",1809,146,107,1648,A,35
+526,6,Logika Data,"Data A=1189, B=876, C=1786, D=570. Data manakah yang paling tinggi?",1786,876,570,1189,A,35
+527,6,Logika Data,"Data A=417, B=664, C=486, D=1892. Data manakah yang paling tinggi?",664,417,486,1892,D,35
+528,6,Logika Data,"Data A=1359, B=1668, C=1909, D=1920. Data manakah yang paling tinggi?",1359,1668,1909,1920,D,35
+529,6,Logika Data,"Data A=237, B=306, C=1316, D=168. Data manakah yang paling tinggi?",237,1316,306,168,B,35
+530,6,Logika Data,"Data A=601, B=1616, C=190, D=923. Data manakah yang paling tinggi?",601,190,1616,923,C,35
+531,6,Logika Data,"Data A=1644, B=1868, C=1689, D=215. Data manakah yang paling tinggi?",1868,215,1689,1644,A,35
+532,6,Logika Data,"Data A=579, B=1770, C=1976, D=1598. Data manakah yang paling tinggi?",1976,579,1598,1770,A,35
+533,6,Logika Data,"Data A=585, B=718, C=1894, D=393. Data manakah yang paling tinggi?",1894,718,393,585,A,35
+534,6,Logika Data,"Data A=663, B=224, C=1240, D=1311. Data manakah yang paling tinggi?",1311,1240,224,663,A,35
+535,6,Logika Data,"Data A=1238, B=1115, C=196, D=805. Data manakah yang paling tinggi?",1238,1115,196,805,A,35
+536,6,Logika Data,"Data A=1526, B=952, C=936, D=405. Data manakah yang paling rendah?",936,405,1526,952,B,35
+537,6,Logika Data,"Data A=1645, B=1201, C=1069, D=593. Data manakah yang paling rendah?",1201,593,1069,1645,B,35
+538,6,Logika Data,"Data A=1750, B=1048, C=1973, D=218. Data manakah yang paling rendah?",1048,218,1750,1973,B,35
+539,6,Logika Data,"Data A=895, B=597, C=622, D=516. Data manakah yang paling rendah?",895,516,622,597,B,35
+540,6,Logika Data,"Data A=1988, B=1021, C=1834, D=859. Data manakah yang paling rendah?",1988,1834,1021,859,D,35
+541,6,Logika Data,"Data A=205, B=649, C=872, D=1479. Data manakah yang paling rendah?",649,872,1479,205,D,35
+542,6,Logika Data,"Data A=1747, B=1659, C=1303, D=1583. Data manakah yang paling rendah?",1659,1303,1583,1747,B,35
+543,6,Logika Data,"Data A=1880, B=1957, C=781, D=720. Data manakah yang paling rendah?",1880,1957,781,720,D,35
+544,6,Logika Data,"Data A=1618, B=340, C=1629, D=1644. Data manakah yang paling rendah?",1618,1629,340,1644,C,35
+545,6,Logika Data,"Data A=912, B=1974, C=590, D=1230. Data manakah yang paling rendah?",590,1230,912,1974,A,35
+546,6,Logika Data,"Data A=1054, B=1192, C=1428, D=835. Data manakah yang paling rendah?",835,1428,1054,1192,A,35
+547,6,Logika Data,"Data A=1150, B=1907, C=1118, D=1054. Data manakah yang paling rendah?",1118,1150,1907,1054,D,35
+548,6,Logika Data,"Data A=1659, B=1819, C=755, D=1972. Data manakah yang paling rendah?",755,1819,1972,1659,A,35
+549,6,Logika Data,"Data A=947, B=193, C=1252, D=1869. Data manakah yang paling rendah?",1869,193,1252,947,B,35
+550,6,Logika Data,"Data A=133, B=634, C=1233, D=1296. Data manakah yang paling rendah?",1233,133,634,1296,B,35
+551,6,Logika Data,"Data A=501, B=775, C=571, D=877. Data manakah yang paling rendah?",501,571,877,775,A,35
+552,6,Logika Data,"Data A=627, B=1663, C=1782, D=1100. Data manakah yang paling rendah?",1782,627,1663,1100,B,35
+553,6,Logika Data,"Data A=1600, B=1728, C=821, D=446. Data manakah yang paling rendah?",446,821,1728,1600,A,35
+554,6,Logika Data,"Data A=476, B=1977, C=1921, D=1210. Data manakah yang paling rendah?",1977,1210,1921,476,D,35
+555,6,Logika Data,"Data A=1818, B=1834, C=252, D=1775. Data manakah yang paling rendah?",1834,1818,1775,252,D,35
+556,6,Logika Data,"Data A=381, B=1825, C=1391, D=573. Data manakah yang paling rendah?",1825,573,1391,381,D,35
+557,6,Logika Data,"Data A=118, B=547, C=1135, D=1033. Data manakah yang paling rendah?",1033,547,118,1135,C,35
+558,6,Logika Data,"Data A=1450, B=1099, C=132, D=113. Data manakah yang paling rendah?",1450,1099,113,132,C,35
+559,6,Logika Data,"Data A=1184, B=1579, C=662, D=1197. Data manakah yang paling rendah?",1197,1184,662,1579,C,35
+560,6,Logika Data,"Data A=1751, B=1963, C=467, D=319. Data manakah yang paling rendah?",1751,467,1963,319,D,35
+561,6,Logika Data,"Data A=593, B=493, C=1369, D=1178. Data manakah yang paling rendah?",493,1178,593,1369,A,35
+562,6,Logika Data,"Data A=1728, B=912, C=261, D=864. Data manakah yang paling rendah?",912,261,1728,864,B,35
+563,6,Logika Data,"Data A=1527, B=562, C=714, D=1500. Data manakah yang paling rendah?",1527,1500,714,562,D,35
+564,6,Logika Data,"Data A=291, B=930, C=876, D=872. Data manakah yang paling rendah?",930,876,291,872,C,35
+565,6,Logika Data,"Data A=1539, B=450, C=269, D=1123. Data manakah yang paling rendah?",269,1539,450,1123,A,35
+566,6,Logika Data,"Data A=1258, B=1857, C=295, D=1932. Data manakah yang paling rendah?",1258,1857,1932,295,D,35
+567,6,Logika Data,"Data A=1945, B=1877, C=1517, D=1917. Data manakah yang paling rendah?",1877,1517,1945,1917,B,35
+568,6,Logika Data,"Data A=1992, B=252, C=1501, D=1995. Data manakah yang paling rendah?",1992,252,1995,1501,B,35
+569,6,Logika Data,"Data A=467, B=1841, C=744, D=132. Data manakah yang paling rendah?",744,132,1841,467,B,35
+570,6,Logika Data,"Data A=1640, B=1780, C=1559, D=1781. Data manakah yang paling rendah?",1780,1640,1559,1781,C,35
+571,6,Logika Data,"Jika A=432, B=1254, dan C=592, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+572,6,Logika Data,"Jika A=1260, B=1809, dan C=1839, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+573,6,Logika Data,"Jika A=896, B=1486, dan C=1936, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+574,6,Logika Data,"Jika A=1207, B=779, dan C=886, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+575,6,Logika Data,"Jika A=1647, B=1614, dan C=386, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+576,6,Logika Data,"Jika A=1718, B=1511, dan C=1583, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+577,6,Logika Data,"Jika A=260, B=1125, dan C=1626, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+578,6,Logika Data,"Jika A=808, B=209, dan C=300, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+579,6,Logika Data,"Jika A=995, B=575, dan C=1817, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+580,6,Logika Data,"Jika A=255, B=797, dan C=1339, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+581,6,Logika Data,"Jika A=1674, B=1357, dan C=1319, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+582,6,Logika Data,"Jika A=912, B=1684, dan C=768, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+583,6,Logika Data,"Jika A=160, B=1398, dan C=659, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+584,6,Logika Data,"Jika A=1704, B=1022, dan C=1104, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+585,6,Logika Data,"Jika A=567, B=828, dan C=1232, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+586,6,Logika Data,"Jika A=868, B=984, dan C=480, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+587,6,Logika Data,"Jika A=1492, B=1299, dan C=1453, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+588,6,Logika Data,"Jika A=878, B=275, dan C=1681, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+589,6,Logika Data,"Jika A=1366, B=704, dan C=1734, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+590,6,Logika Data,"Jika A=604, B=1560, dan C=250, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+591,6,Logika Data,"Jika A=268, B=648, dan C=415, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+592,6,Logika Data,"Jika A=878, B=1557, dan C=1705, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+593,6,Logika Data,"Jika A=1398, B=415, dan C=1614, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+594,6,Logika Data,"Jika A=897, B=748, dan C=838, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+595,6,Logika Data,"Jika A=318, B=287, dan C=110, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+596,6,Logika Data,"Jika A=731, B=1010, dan C=837, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,B,35
+597,6,Logika Data,"Jika A=1659, B=652, dan C=309, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+598,6,Logika Data,"Jika A=371, B=278, dan C=483, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+599,6,Logika Data,"Jika A=982, B=1019, dan C=1240, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,C,35
+600,6,Logika Data,"Jika A=1236, B=1149, dan C=935, wilayah dengan nilai tertinggi adalah ...",A,B,C,Semua sama,A,35
+601,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Median,Modus,Range,Mean,D,40
+602,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Mean,Modus,Sampel,Median,B,40
+603,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Populasi,Median,Mean,Modus,B,40
+604,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Range,Sensus,Mean,Median,A,40
+605,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Populasi,Outlier,Sensus,Sampel,D,40
+606,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Populasi,Median,Mean,Sampel,A,40
+607,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Primer,Sekunder,Kategorik,Numerik,C,40
+608,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Numerik,Sekunder,Kategorik,Primer,A,40
+609,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Modus,Median,Outlier,Mean,C,40
+610,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Tabel,Sampel,Histogram,Populasi,A,40
+611,7,Pengetahuan Statistik,Diagram yang menggunakan batang untuk membandingkan kategori disebut ...,Scatter plot,Diagram batang,Diagram lingkaran,Tabel,B,40
+612,7,Pengetahuan Statistik,Diagram yang menggunakan lingkaran untuk menunjukkan proporsi disebut ...,Mean,Diagram lingkaran,Diagram batang,Tabel,B,40
+613,7,Pengetahuan Statistik,Proses mengumpulkan informasi dari seluruh anggota populasi disebut ...,Sampel,Sensus,Survei,Modus,B,40
+614,7,Pengetahuan Statistik,Data yang dikumpulkan langsung oleh peneliti disebut data ...,Sekunder,Kategorik,Primer,Numerik,C,40
+615,7,Pengetahuan Statistik,Data yang diperoleh dari sumber yang sudah tersedia disebut data ...,Sampel,Primer,Sekunder,Sensus,C,40
+616,7,Pengetahuan Statistik,Median untuk jumlah data ganjil adalah ...,nilai tengah,nilai terbesar,nilai paling sering,nilai terkecil,A,40
+617,7,Pengetahuan Statistik,Median untuk jumlah data genap diperoleh dari ...,rata-rata dua nilai tengah,range,nilai terbesar,modus,A,40
+618,7,Pengetahuan Statistik,Statistik deskriptif digunakan untuk ...,menghapus semua data,meringkas data,mengubah data menjadi gambar,menambah jumlah data,B,40
+619,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Mean,Median,Modus,Range,A,40
+620,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Sampel,Mean,Modus,Median,C,40
+621,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Populasi,Mean,Median,Modus,C,40
+622,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Sensus,Range,Mean,Median,B,40
+623,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Populasi,Sampel,Outlier,Sensus,B,40
+624,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Mean,Populasi,Median,Sampel,B,40
+625,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Numerik,Primer,Kategorik,Sekunder,C,40
+626,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Primer,Sekunder,Kategorik,Numerik,D,40
+627,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Modus,Outlier,Mean,Median,B,40
+628,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Populasi,Histogram,Sampel,Tabel,D,40
+629,7,Pengetahuan Statistik,Diagram yang menggunakan batang untuk membandingkan kategori disebut ...,Scatter plot,Tabel,Diagram lingkaran,Diagram batang,D,40
+630,7,Pengetahuan Statistik,Diagram yang menggunakan lingkaran untuk menunjukkan proporsi disebut ...,Diagram batang,Mean,Tabel,Diagram lingkaran,D,40
+631,7,Pengetahuan Statistik,Proses mengumpulkan informasi dari seluruh anggota populasi disebut ...,Survei,Sampel,Sensus,Modus,C,40
+632,7,Pengetahuan Statistik,Data yang dikumpulkan langsung oleh peneliti disebut data ...,Sekunder,Kategorik,Primer,Numerik,C,40
+633,7,Pengetahuan Statistik,Data yang diperoleh dari sumber yang sudah tersedia disebut data ...,Sampel,Primer,Sekunder,Sensus,C,40
+634,7,Pengetahuan Statistik,Median untuk jumlah data ganjil adalah ...,nilai paling sering,nilai terkecil,nilai terbesar,nilai tengah,D,40
+635,7,Pengetahuan Statistik,Median untuk jumlah data genap diperoleh dari ...,nilai terbesar,range,modus,rata-rata dua nilai tengah,D,40
+636,7,Pengetahuan Statistik,Statistik deskriptif digunakan untuk ...,menambah jumlah data,menghapus semua data,mengubah data menjadi gambar,meringkas data,D,40
+637,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Mean,Modus,Median,Range,A,40
+638,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Mean,Modus,Median,Sampel,B,40
+639,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Mean,Modus,Populasi,Median,D,40
+640,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Sensus,Mean,Range,Median,C,40
+641,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Sampel,Populasi,Outlier,Sensus,A,40
+642,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Sampel,Populasi,Mean,Median,B,40
+643,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Sekunder,Kategorik,Primer,Numerik,B,40
+644,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Sekunder,Kategorik,Numerik,Primer,C,40
+645,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Modus,Median,Outlier,Mean,C,40
+646,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Sampel,Histogram,Populasi,Tabel,D,40
+647,7,Pengetahuan Statistik,Diagram yang menggunakan batang untuk membandingkan kategori disebut ...,Diagram batang,Scatter plot,Tabel,Diagram lingkaran,A,40
+648,7,Pengetahuan Statistik,Diagram yang menggunakan lingkaran untuk menunjukkan proporsi disebut ...,Diagram batang,Mean,Tabel,Diagram lingkaran,D,40
+649,7,Pengetahuan Statistik,Proses mengumpulkan informasi dari seluruh anggota populasi disebut ...,Modus,Sampel,Survei,Sensus,D,40
+650,7,Pengetahuan Statistik,Data yang dikumpulkan langsung oleh peneliti disebut data ...,Kategorik,Numerik,Primer,Sekunder,C,40
+651,7,Pengetahuan Statistik,Data yang diperoleh dari sumber yang sudah tersedia disebut data ...,Sekunder,Sensus,Primer,Sampel,A,40
+652,7,Pengetahuan Statistik,Median untuk jumlah data ganjil adalah ...,nilai tengah,nilai paling sering,nilai terbesar,nilai terkecil,A,40
+653,7,Pengetahuan Statistik,Median untuk jumlah data genap diperoleh dari ...,rata-rata dua nilai tengah,nilai terbesar,modus,range,A,40
+654,7,Pengetahuan Statistik,Statistik deskriptif digunakan untuk ...,menambah jumlah data,menghapus semua data,meringkas data,mengubah data menjadi gambar,C,40
+655,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Median,Modus,Mean,Range,C,40
+656,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Median,Sampel,Mean,Modus,D,40
+657,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Modus,Populasi,Mean,Median,D,40
+658,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Sensus,Mean,Range,Median,C,40
+659,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Populasi,Outlier,Sampel,Sensus,C,40
+660,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Mean,Sampel,Median,Populasi,D,40
+661,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Kategorik,Numerik,Primer,Sekunder,A,40
+662,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Primer,Sekunder,Kategorik,Numerik,D,40
+663,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Outlier,Median,Modus,Mean,A,40
+664,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Sampel,Histogram,Populasi,Tabel,D,40
+665,7,Pengetahuan Statistik,Diagram yang menggunakan batang untuk membandingkan kategori disebut ...,Diagram batang,Scatter plot,Tabel,Diagram lingkaran,A,40
+666,7,Pengetahuan Statistik,Diagram yang menggunakan lingkaran untuk menunjukkan proporsi disebut ...,Diagram lingkaran,Tabel,Mean,Diagram batang,A,40
+667,7,Pengetahuan Statistik,Proses mengumpulkan informasi dari seluruh anggota populasi disebut ...,Sampel,Modus,Survei,Sensus,D,40
+668,7,Pengetahuan Statistik,Data yang dikumpulkan langsung oleh peneliti disebut data ...,Numerik,Kategorik,Sekunder,Primer,D,40
+669,7,Pengetahuan Statistik,Data yang diperoleh dari sumber yang sudah tersedia disebut data ...,Primer,Sekunder,Sampel,Sensus,B,40
+670,7,Pengetahuan Statistik,Median untuk jumlah data ganjil adalah ...,nilai terbesar,nilai tengah,nilai terkecil,nilai paling sering,B,40
+671,7,Pengetahuan Statistik,Median untuk jumlah data genap diperoleh dari ...,modus,rata-rata dua nilai tengah,range,nilai terbesar,B,40
+672,7,Pengetahuan Statistik,Statistik deskriptif digunakan untuk ...,meringkas data,menambah jumlah data,menghapus semua data,mengubah data menjadi gambar,A,40
+673,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Mean,Median,Modus,Range,A,40
+674,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Sampel,Median,Mean,Modus,D,40
+675,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Modus,Mean,Median,Populasi,C,40
+676,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Range,Median,Sensus,Mean,A,40
+677,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Outlier,Populasi,Sampel,Sensus,C,40
+678,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Populasi,Sampel,Mean,Median,A,40
+679,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Primer,Sekunder,Kategorik,Numerik,C,40
+680,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Primer,Kategorik,Sekunder,Numerik,D,40
+681,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Outlier,Median,Modus,Mean,A,40
+682,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Histogram,Populasi,Sampel,Tabel,D,40
+683,7,Pengetahuan Statistik,Diagram yang menggunakan batang untuk membandingkan kategori disebut ...,Tabel,Scatter plot,Diagram lingkaran,Diagram batang,D,40
+684,7,Pengetahuan Statistik,Diagram yang menggunakan lingkaran untuk menunjukkan proporsi disebut ...,Mean,Diagram batang,Tabel,Diagram lingkaran,D,40
+685,7,Pengetahuan Statistik,Proses mengumpulkan informasi dari seluruh anggota populasi disebut ...,Sensus,Modus,Sampel,Survei,A,40
+686,7,Pengetahuan Statistik,Data yang dikumpulkan langsung oleh peneliti disebut data ...,Kategorik,Numerik,Sekunder,Primer,D,40
+687,7,Pengetahuan Statistik,Data yang diperoleh dari sumber yang sudah tersedia disebut data ...,Sensus,Sampel,Sekunder,Primer,C,40
+688,7,Pengetahuan Statistik,Median untuk jumlah data ganjil adalah ...,nilai paling sering,nilai tengah,nilai terkecil,nilai terbesar,B,40
+689,7,Pengetahuan Statistik,Median untuk jumlah data genap diperoleh dari ...,range,modus,nilai terbesar,rata-rata dua nilai tengah,D,40
+690,7,Pengetahuan Statistik,Statistik deskriptif digunakan untuk ...,menghapus semua data,meringkas data,mengubah data menjadi gambar,menambah jumlah data,B,40
+691,7,Pengetahuan Statistik,Ukuran pemusatan yang diperoleh dengan menjumlahkan seluruh nilai lalu membaginya dengan banyak data adalah ...,Mean,Modus,Median,Range,A,40
+692,7,Pengetahuan Statistik,Nilai yang paling sering muncul disebut ...,Mean,Modus,Median,Sampel,B,40
+693,7,Pengetahuan Statistik,Nilai tengah setelah data diurutkan disebut ...,Median,Populasi,Modus,Mean,A,40
+694,7,Pengetahuan Statistik,Selisih antara nilai terbesar dan terkecil disebut ...,Median,Sensus,Range,Mean,C,40
+695,7,Pengetahuan Statistik,Sebagian anggota populasi yang diteliti disebut ...,Sensus,Sampel,Outlier,Populasi,B,40
+696,7,Pengetahuan Statistik,Keseluruhan objek yang menjadi sasaran penelitian disebut ...,Populasi,Sampel,Median,Mean,A,40
+697,7,Pengetahuan Statistik,Data yang berbentuk kategori seperti jenis kelamin termasuk data ...,Primer,Kategorik,Numerik,Sekunder,B,40
+698,7,Pengetahuan Statistik,Data berupa jumlah penduduk termasuk data ...,Primer,Kategorik,Numerik,Sekunder,C,40
+699,7,Pengetahuan Statistik,Nilai yang sangat jauh dari sebagian besar data disebut ...,Modus,Median,Mean,Outlier,D,40
+700,7,Pengetahuan Statistik,Penyajian data dalam baris dan kolom disebut ...,Sampel,Tabel,Populasi,Histogram,B,40
+701,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Biro Pusat Informasi,Badan Pengelola Statistik,Badan Pusat Statistik,Badan Pendataan Sosial,C,50
+702,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,perdagangan saja,transportasi,statistik,perbankan,C,50
+703,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,menghapus data,hiburan semata,perencanaan dan pengambilan keputusan,mengganti seluruh data,C,50
+704,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,sensus,iklan,permainan,simulasi,A,50
+705,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,kendaraan,komputer,gedung,penduduk,D,50
+706,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat provinsi yang disebut ...,BPS Provinsi,BPS Kecamatan,BPS Kelurahan,BPS Nasional,A,50
+707,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat kabupaten/kota yang disebut ...,BPS Kabupaten/Kota,BPS Nasional,BPS Kecamatan,BPS Kelurahan,A,50
+708,8,Pengetahuan BPS,Salah satu kegunaan statistik adalah ...,menghapus informasi,memberikan informasi berbasis data,mengubah cuaca,mengurangi jumlah penduduk,B,50
+709,8,Pengetahuan BPS,Data statistik dapat digunakan untuk melihat ...,ukuran komputer,warna layar,kecepatan internet,perkembangan suatu kondisi,D,50
+710,8,Pengetahuan BPS,BPS menghasilkan berbagai publikasi statistik untuk ...,mengatur lalu lintas,menghapus semua data,menyediakan informasi kepada masyarakat,menjual perangkat,C,50
+711,8,Pengetahuan BPS,Survei berbeda dari sensus karena survei umumnya ...,tidak membutuhkan data,menggunakan sebagian unit sebagai sampel,hanya menggunakan satu orang,selalu mencakup seluruh unit,B,50
+712,8,Pengetahuan BPS,Informasi statistik yang baik perlu didukung oleh ...,data yang berkualitas,gambar tanpa sumber,data acak tanpa pemeriksaan,teks tanpa informasi,A,50
+713,8,Pengetahuan BPS,BPS menyediakan informasi statistik yang dapat digunakan oleh ...,hanya wisatawan,masyarakat dan pemerintah,hanya satu orang,hanya perusahaan asing,B,50
+714,8,Pengetahuan BPS,Statistik ekonomi dapat membantu memahami kondisi ...,olahraga,perekonomian,cuaca,arsitektur,B,50
+715,8,Pengetahuan BPS,Statistik penduduk berkaitan dengan ...,astronomi,geologi,kimia,demografi,D,50
+716,8,Pengetahuan BPS,Data kemiskinan dapat digunakan untuk membantu memahami ...,warna rumah,jumlah kendaraan dinas,kecepatan internet,kondisi kesejahteraan masyarakat,D,50
+717,8,Pengetahuan BPS,Data ketenagakerjaan berkaitan dengan ...,bangunan,tenaga kerja,cuaca,kendaraan,B,50
+718,8,Pengetahuan BPS,Data pendidikan dapat digunakan untuk melihat kondisi ...,transportasi,cuaca,pendidikan,perikanan,C,50
+719,8,Pengetahuan BPS,Data pertanian dapat menggambarkan kondisi ...,jaringan internet,sektor hiburan,sektor pertanian,perangkat komputer,C,50
+720,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Badan Pendataan Sosial,Badan Pengelola Statistik,Badan Pusat Statistik,Biro Pusat Informasi,C,50
+721,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,perbankan,transportasi,perdagangan saja,statistik,D,50
+722,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,perencanaan dan pengambilan keputusan,mengganti seluruh data,menghapus data,hiburan semata,A,50
+723,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,iklan,sensus,simulasi,permainan,B,50
+724,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,komputer,kendaraan,gedung,penduduk,D,50
+725,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat provinsi yang disebut ...,BPS Kecamatan,BPS Kelurahan,BPS Nasional,BPS Provinsi,D,50
+726,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat kabupaten/kota yang disebut ...,BPS Nasional,BPS Kecamatan,BPS Kabupaten/Kota,BPS Kelurahan,C,50
+727,8,Pengetahuan BPS,Salah satu kegunaan statistik adalah ...,menghapus informasi,mengurangi jumlah penduduk,mengubah cuaca,memberikan informasi berbasis data,D,50
+728,8,Pengetahuan BPS,Data statistik dapat digunakan untuk melihat ...,kecepatan internet,warna layar,perkembangan suatu kondisi,ukuran komputer,C,50
+729,8,Pengetahuan BPS,BPS menghasilkan berbagai publikasi statistik untuk ...,menyediakan informasi kepada masyarakat,menjual perangkat,menghapus semua data,mengatur lalu lintas,A,50
+730,8,Pengetahuan BPS,Survei berbeda dari sensus karena survei umumnya ...,menggunakan sebagian unit sebagai sampel,hanya menggunakan satu orang,tidak membutuhkan data,selalu mencakup seluruh unit,A,50
+731,8,Pengetahuan BPS,Informasi statistik yang baik perlu didukung oleh ...,gambar tanpa sumber,data acak tanpa pemeriksaan,data yang berkualitas,teks tanpa informasi,C,50
+732,8,Pengetahuan BPS,BPS menyediakan informasi statistik yang dapat digunakan oleh ...,hanya perusahaan asing,hanya satu orang,masyarakat dan pemerintah,hanya wisatawan,C,50
+733,8,Pengetahuan BPS,Statistik ekonomi dapat membantu memahami kondisi ...,arsitektur,perekonomian,olahraga,cuaca,B,50
+734,8,Pengetahuan BPS,Statistik penduduk berkaitan dengan ...,demografi,astronomi,kimia,geologi,A,50
+735,8,Pengetahuan BPS,Data kemiskinan dapat digunakan untuk membantu memahami ...,jumlah kendaraan dinas,kondisi kesejahteraan masyarakat,kecepatan internet,warna rumah,B,50
+736,8,Pengetahuan BPS,Data ketenagakerjaan berkaitan dengan ...,bangunan,cuaca,kendaraan,tenaga kerja,D,50
+737,8,Pengetahuan BPS,Data pendidikan dapat digunakan untuk melihat kondisi ...,perikanan,transportasi,pendidikan,cuaca,C,50
+738,8,Pengetahuan BPS,Data pertanian dapat menggambarkan kondisi ...,jaringan internet,sektor hiburan,sektor pertanian,perangkat komputer,C,50
+739,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Biro Pusat Informasi,Badan Pusat Statistik,Badan Pendataan Sosial,Badan Pengelola Statistik,B,50
+740,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,perdagangan saja,statistik,perbankan,transportasi,B,50
+741,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,perencanaan dan pengambilan keputusan,hiburan semata,mengganti seluruh data,menghapus data,A,50
+742,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,simulasi,permainan,iklan,sensus,D,50
+743,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,gedung,kendaraan,penduduk,komputer,C,50
+744,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat provinsi yang disebut ...,BPS Provinsi,BPS Kelurahan,BPS Nasional,BPS Kecamatan,A,50
+745,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat kabupaten/kota yang disebut ...,BPS Kelurahan,BPS Nasional,BPS Kabupaten/Kota,BPS Kecamatan,C,50
+746,8,Pengetahuan BPS,Salah satu kegunaan statistik adalah ...,mengubah cuaca,menghapus informasi,mengurangi jumlah penduduk,memberikan informasi berbasis data,D,50
+747,8,Pengetahuan BPS,Data statistik dapat digunakan untuk melihat ...,kecepatan internet,perkembangan suatu kondisi,ukuran komputer,warna layar,B,50
+748,8,Pengetahuan BPS,BPS menghasilkan berbagai publikasi statistik untuk ...,menghapus semua data,menjual perangkat,mengatur lalu lintas,menyediakan informasi kepada masyarakat,D,50
+749,8,Pengetahuan BPS,Survei berbeda dari sensus karena survei umumnya ...,hanya menggunakan satu orang,selalu mencakup seluruh unit,tidak membutuhkan data,menggunakan sebagian unit sebagai sampel,D,50
+750,8,Pengetahuan BPS,Informasi statistik yang baik perlu didukung oleh ...,teks tanpa informasi,gambar tanpa sumber,data acak tanpa pemeriksaan,data yang berkualitas,D,50
+751,8,Pengetahuan BPS,BPS menyediakan informasi statistik yang dapat digunakan oleh ...,hanya perusahaan asing,hanya satu orang,masyarakat dan pemerintah,hanya wisatawan,C,50
+752,8,Pengetahuan BPS,Statistik ekonomi dapat membantu memahami kondisi ...,perekonomian,arsitektur,cuaca,olahraga,A,50
+753,8,Pengetahuan BPS,Statistik penduduk berkaitan dengan ...,astronomi,kimia,demografi,geologi,C,50
+754,8,Pengetahuan BPS,Data kemiskinan dapat digunakan untuk membantu memahami ...,kecepatan internet,kondisi kesejahteraan masyarakat,warna rumah,jumlah kendaraan dinas,B,50
+755,8,Pengetahuan BPS,Data ketenagakerjaan berkaitan dengan ...,tenaga kerja,kendaraan,bangunan,cuaca,A,50
+756,8,Pengetahuan BPS,Data pendidikan dapat digunakan untuk melihat kondisi ...,perikanan,transportasi,pendidikan,cuaca,C,50
+757,8,Pengetahuan BPS,Data pertanian dapat menggambarkan kondisi ...,jaringan internet,sektor pertanian,sektor hiburan,perangkat komputer,B,50
+758,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Badan Pusat Statistik,Badan Pengelola Statistik,Badan Pendataan Sosial,Biro Pusat Informasi,A,50
+759,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,transportasi,statistik,perdagangan saja,perbankan,B,50
+760,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,hiburan semata,menghapus data,mengganti seluruh data,perencanaan dan pengambilan keputusan,D,50
+761,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,simulasi,sensus,iklan,permainan,B,50
+762,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,kendaraan,gedung,penduduk,komputer,C,50
+763,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat provinsi yang disebut ...,BPS Provinsi,BPS Kelurahan,BPS Kecamatan,BPS Nasional,A,50
+764,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat kabupaten/kota yang disebut ...,BPS Kecamatan,BPS Kabupaten/Kota,BPS Kelurahan,BPS Nasional,B,50
+765,8,Pengetahuan BPS,Salah satu kegunaan statistik adalah ...,mengurangi jumlah penduduk,memberikan informasi berbasis data,menghapus informasi,mengubah cuaca,B,50
+766,8,Pengetahuan BPS,Data statistik dapat digunakan untuk melihat ...,perkembangan suatu kondisi,kecepatan internet,ukuran komputer,warna layar,A,50
+767,8,Pengetahuan BPS,BPS menghasilkan berbagai publikasi statistik untuk ...,menjual perangkat,menghapus semua data,menyediakan informasi kepada masyarakat,mengatur lalu lintas,C,50
+768,8,Pengetahuan BPS,Survei berbeda dari sensus karena survei umumnya ...,selalu mencakup seluruh unit,tidak membutuhkan data,menggunakan sebagian unit sebagai sampel,hanya menggunakan satu orang,C,50
+769,8,Pengetahuan BPS,Informasi statistik yang baik perlu didukung oleh ...,data acak tanpa pemeriksaan,gambar tanpa sumber,data yang berkualitas,teks tanpa informasi,C,50
+770,8,Pengetahuan BPS,BPS menyediakan informasi statistik yang dapat digunakan oleh ...,hanya perusahaan asing,hanya satu orang,hanya wisatawan,masyarakat dan pemerintah,D,50
+771,8,Pengetahuan BPS,Statistik ekonomi dapat membantu memahami kondisi ...,cuaca,perekonomian,olahraga,arsitektur,B,50
+772,8,Pengetahuan BPS,Statistik penduduk berkaitan dengan ...,kimia,astronomi,geologi,demografi,D,50
+773,8,Pengetahuan BPS,Data kemiskinan dapat digunakan untuk membantu memahami ...,jumlah kendaraan dinas,warna rumah,kondisi kesejahteraan masyarakat,kecepatan internet,C,50
+774,8,Pengetahuan BPS,Data ketenagakerjaan berkaitan dengan ...,kendaraan,tenaga kerja,cuaca,bangunan,B,50
+775,8,Pengetahuan BPS,Data pendidikan dapat digunakan untuk melihat kondisi ...,transportasi,perikanan,cuaca,pendidikan,D,50
+776,8,Pengetahuan BPS,Data pertanian dapat menggambarkan kondisi ...,jaringan internet,sektor hiburan,sektor pertanian,perangkat komputer,C,50
+777,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Badan Pendataan Sosial,Biro Pusat Informasi,Badan Pengelola Statistik,Badan Pusat Statistik,D,50
+778,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,perbankan,statistik,transportasi,perdagangan saja,B,50
+779,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,menghapus data,perencanaan dan pengambilan keputusan,mengganti seluruh data,hiburan semata,B,50
+780,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,permainan,simulasi,iklan,sensus,D,50
+781,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,gedung,penduduk,komputer,kendaraan,B,50
+782,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat provinsi yang disebut ...,BPS Nasional,BPS Kecamatan,BPS Kelurahan,BPS Provinsi,D,50
+783,8,Pengetahuan BPS,BPS memiliki kantor statistik di tingkat kabupaten/kota yang disebut ...,BPS Kabupaten/Kota,BPS Kelurahan,BPS Kecamatan,BPS Nasional,A,50
+784,8,Pengetahuan BPS,Salah satu kegunaan statistik adalah ...,mengubah cuaca,memberikan informasi berbasis data,menghapus informasi,mengurangi jumlah penduduk,B,50
+785,8,Pengetahuan BPS,Data statistik dapat digunakan untuk melihat ...,ukuran komputer,perkembangan suatu kondisi,warna layar,kecepatan internet,B,50
+786,8,Pengetahuan BPS,BPS menghasilkan berbagai publikasi statistik untuk ...,menjual perangkat,menghapus semua data,menyediakan informasi kepada masyarakat,mengatur lalu lintas,C,50
+787,8,Pengetahuan BPS,Survei berbeda dari sensus karena survei umumnya ...,hanya menggunakan satu orang,tidak membutuhkan data,selalu mencakup seluruh unit,menggunakan sebagian unit sebagai sampel,D,50
+788,8,Pengetahuan BPS,Informasi statistik yang baik perlu didukung oleh ...,gambar tanpa sumber,teks tanpa informasi,data yang berkualitas,data acak tanpa pemeriksaan,C,50
+789,8,Pengetahuan BPS,BPS menyediakan informasi statistik yang dapat digunakan oleh ...,masyarakat dan pemerintah,hanya wisatawan,hanya perusahaan asing,hanya satu orang,A,50
+790,8,Pengetahuan BPS,Statistik ekonomi dapat membantu memahami kondisi ...,olahraga,perekonomian,cuaca,arsitektur,B,50
+791,8,Pengetahuan BPS,Statistik penduduk berkaitan dengan ...,kimia,demografi,astronomi,geologi,B,50
+792,8,Pengetahuan BPS,Data kemiskinan dapat digunakan untuk membantu memahami ...,kecepatan internet,warna rumah,kondisi kesejahteraan masyarakat,jumlah kendaraan dinas,C,50
+793,8,Pengetahuan BPS,Data ketenagakerjaan berkaitan dengan ...,cuaca,bangunan,tenaga kerja,kendaraan,C,50
+794,8,Pengetahuan BPS,Data pendidikan dapat digunakan untuk melihat kondisi ...,transportasi,perikanan,pendidikan,cuaca,C,50
+795,8,Pengetahuan BPS,Data pertanian dapat menggambarkan kondisi ...,jaringan internet,sektor pertanian,perangkat komputer,sektor hiburan,B,50
+796,8,Pengetahuan BPS,BPS merupakan singkatan dari ...,Biro Pusat Informasi,Badan Pengelola Statistik,Badan Pendataan Sosial,Badan Pusat Statistik,D,50
+797,8,Pengetahuan BPS,BPS merupakan lembaga pemerintah yang bertugas di bidang ...,transportasi,perdagangan saja,perbankan,statistik,D,50
+798,8,Pengetahuan BPS,Data statistik digunakan antara lain untuk membantu ...,mengganti seluruh data,perencanaan dan pengambilan keputusan,hiburan semata,menghapus data,B,50
+799,8,Pengetahuan BPS,Kegiatan mengumpulkan data dari seluruh penduduk disebut ...,iklan,sensus,simulasi,permainan,B,50
+800,8,Pengetahuan BPS,Sensus Penduduk berkaitan dengan data tentang ...,gedung,penduduk,komputer,kendaraan,B,50

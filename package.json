@@ -1,0 +1,13 @@
+{
+  "name": "statistik-challenge",
+  "version": "1.0.0",
+  "description": "Web game statistik lokal untuk BPS Kota Palu — dimainkan via Wi-Fi kantor",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["bps", "statistik", "game", "lokal"],
+  "author": "Tim KP BPS Kota Palu",
+  "license": "UNLICENSED",
+  "private": true
+}
