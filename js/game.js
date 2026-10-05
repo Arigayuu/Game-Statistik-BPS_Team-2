@@ -31,6 +31,8 @@ const QUESTIONS_PER_ROUND = 5;
 const MAX_LIVES = 3;
 const STORAGE_UNLOCK_KEY = "sc_unlocked_level";
 const STORAGE_NICKNAME_KEY = "sc_nickname";
+const STORAGE_RECORDS_KEY = "sc_track_records";
+
 
 const Game = {
   nickname: "Pemain",
@@ -44,6 +46,18 @@ const Game = {
   wrong: 0,
   lives: MAX_LIVES,
   answering: false,
+  streak: 0,
+  bestStreak: 0,
+  timeLimit: 20,
+  gameOver: false,
+
+  getTimeLimit() {
+    if (this.currentLevel <= 2) return 20;
+    if (this.currentLevel <= 4) return 15;
+    if (this.currentLevel <= 6) return 12;
+    return 10;
+  },
+
 
   /** Baca progress unlock & nickname dari localStorage */
   loadProgress() {
@@ -71,6 +85,35 @@ const Game = {
     }
   },
 
+  getRecords() {
+    try {
+      return JSON.parse(localStorage.getItem(STORAGE_RECORDS_KEY) || "{}");
+    } catch (error) {
+      return {};
+    }
+  },
+
+  getRecord(level) {
+    const record = this.getRecords()[String(level)];
+    return record || { attempts: 0, successes: 0, failures: 0, highScore: 0 };
+  },
+
+  saveRecord(result) {
+    const records = this.getRecords();
+    const key = String(result.level);
+    const previous = this.getRecord(result.level);
+    const success = !result.gameOver;
+    const updated = {
+      attempts: previous.attempts + 1,
+      successes: previous.successes + (success ? 1 : 0),
+      failures: previous.failures + (success ? 0 : 1),
+      highScore: Math.max(previous.highScore, result.score),
+    };
+    records[key] = updated;
+    localStorage.setItem(STORAGE_RECORDS_KEY, JSON.stringify(records));
+    return updated;
+  },
+
   isUnlocked(level) {
     return level <= this.unlockedLevel;
   },
@@ -92,6 +135,11 @@ const Game = {
     this.wrong = 0;
     this.lives = MAX_LIVES;
     this.answering = false;
+    this.streak = 0;
+    this.bestStreak = 0;
+    this.timeLimit = this.getTimeLimit();
+    this.gameOver = false;
+
 
     if (this.questions.length === 0) {
       return false;
@@ -113,43 +161,38 @@ const Game = {
    * @returns {{ correct: boolean, correctKey: string, points: number, finished: boolean }}
    */
   answer(selectedKey) {
-    if (this.answering) {
-      return null;
-    }
+    if (this.answering || this.gameOver) return null;
 
     const question = this.getCurrentQuestion();
-    if (!question) {
-      return null;
-    }
+    if (!question) return null;
 
     this.answering = true;
-
     const correctKey = String(question.jawaban).toUpperCase();
-    const isCorrect = String(selectedKey).toUpperCase() === correctKey;
+    const timedOut = selectedKey === null;
+    const isCorrect = !timedOut && String(selectedKey).toUpperCase() === correctKey;
     let points = 0;
 
     if (isCorrect) {
       points = Number(question.poin) || LEVEL_INFO[this.currentLevel - 1].poin;
       this.score += points;
       this.correct += 1;
+      this.streak += 1;
+      this.bestStreak = Math.max(this.bestStreak, this.streak);
     } else {
       this.wrong += 1;
-      // STEP 1: nyawa belum dikurangi (aktif di STEP 2)
+      this.lives = Math.max(0, this.lives - 1);
+      this.streak = 0;
     }
 
-    const finished = this.index >= this.questions.length - 1;
+    const gameOver = this.lives === 0;
+    const finished = gameOver || this.index >= this.questions.length - 1;
+    this.gameOver = gameOver;
 
-    // Jika level selesai dengan minimal 1 benar → unlock level berikutnya
-    if (finished && this.correct > 0 && this.currentLevel < 8) {
+    if (finished && !gameOver && this.correct > 0 && this.currentLevel < 8) {
       this.saveUnlock(this.currentLevel + 1);
     }
 
-    return {
-      correct: isCorrect,
-      correctKey: correctKey,
-      points: points,
-      finished: finished,
-    };
+    return { correct: isCorrect, timedOut, correctKey, points, finished, gameOver, streak: this.streak };
   },
 
   /** Lanjut ke soal berikutnya. Return false jika sudah habis. */
@@ -171,6 +214,9 @@ const Game = {
       wrong: this.wrong,
       level: this.currentLevel,
       nickname: this.nickname,
+      bestStreak: this.bestStreak,
+      gameOver: this.gameOver,
+      highScore: Math.max(this.getRecord(this.currentLevel).highScore, this.score),
     };
   },
 };

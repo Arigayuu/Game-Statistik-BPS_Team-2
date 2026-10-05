@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="STATISTIK CHALLENGE — Seberapa jago kamu membaca data?" />
-  <title>STATISTIK CHALLENGE</title>
+<meta name="theme-color" content="#f7f5ef" />
+  <meta name="description" content="STATISTIK CHALLENGE — belajar membaca data statistik dengan cara yang seru." />
+  <title>Statistik Challenge — BPS Kota Palu</title>
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
@@ -12,7 +13,10 @@
     <!-- ========== HOME ========== -->
     <section id="screen-home" class="screen active">
       <div class="home-hero">
-        <p class="brand-badge">BPS Kota Palu</p>
+        <div class="brand-badge">
+          <img src="assets/IMG/Logo BPS.png" alt="Logo BPS" />
+          <span>BPS Kota Palu</span>
+        </div>
         <h1 class="brand-title">STATISTIK<br />CHALLENGE</h1>
         <p class="tagline">Seberapa Jago Kamu Membaca Data?</p>
 
@@ -52,6 +56,17 @@
       </header>
 
       <div id="level-list" class="level-list"></div>
+      <section class="record-panel" aria-labelledby="record-title">
+        <div class="record-heading">
+          <div>
+            <p class="eyebrow">PROGRES LOKAL</p>
+            <h3 id="record-title">Track Record</h3>
+          </div>
+          <span class="record-caption">tersimpan di perangkat ini</span>
+        </div>
+        <div id="track-record" class="record-list"></div>
+      </section>
+
     </section>
 
     <!-- ========== GAME ========== -->
@@ -65,15 +80,16 @@
         <div class="game-score-wrap">
           SKOR: <strong id="game-score">0</strong>
         </div>
-      </header>
-
-      <!-- Timer UI disiapkan; logika timer aktif di STEP 2 -->
-      <div class="timer-wrap" aria-hidden="true">
-        <div class="timer-bar">
+        <div class="game-status-row">
+          <span id="game-streak">STREAK x1</span>
+          <span>WAKTU: <strong id="timer-text">20s</strong></span>
+        </div>
+        <div class="timer-wrap" aria-label="Sisa waktu">
           <div id="timer-fill" class="timer-fill"></div>
         </div>
-        <span id="timer-text" class="timer-text">—</span>
-      </div>
+
+      </header>
+
 
       <div class="question-card">
         <p id="question-category" class="question-category">Kenali Angka</p>
@@ -105,6 +121,15 @@
             <span>Level</span>
             <strong id="result-level">1</strong>
           </div>
+          <div>
+            <span>Streak terbaik</span>
+            <strong id="result-streak">0</strong>
+          </div>
+          <div>
+            <span>High score level</span>
+            <strong id="result-high-score">0</strong>
+          </div>
+
         </div>
 
         <div class="result-actions">
