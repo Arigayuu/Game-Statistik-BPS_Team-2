@@ -103,13 +103,15 @@ const Game = {
     const key = String(result.level);
     const previous = this.getRecord(result.level);
     const success = !result.gameOver;
-    records[key] = {
+    const updated = {
       attempts: previous.attempts + 1,
       successes: previous.successes + (success ? 1 : 0),
       failures: previous.failures + (success ? 0 : 1),
       highScore: Math.max(previous.highScore, result.score),
     };
+    records[key] = updated;
     localStorage.setItem(STORAGE_RECORDS_KEY, JSON.stringify(records));
+    return updated;
   },
 
   isUnlocked(level) {
@@ -214,7 +216,7 @@ const Game = {
       nickname: this.nickname,
       bestStreak: this.bestStreak,
       gameOver: this.gameOver,
-
+      highScore: Math.max(this.getRecord(this.currentLevel).highScore, this.score),
     };
   },
 };
