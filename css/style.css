@@ -18,8 +18,8 @@
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html, body { min-height: 100%; }
-body { color: var(--ink); background: url('../assets/IMG/Background BPS.jpg') center / cover fixed; font-family: var(--font-body); line-height: 1.45; }
-body::before { content: ""; position: fixed; z-index: -1; inset: 0; background: rgba(247,244,238,.78); pointer-events: none; }
+body { color: var(--ink); background: var(--cream); font-family: var(--font-body); line-height: 1.45; }
+body::before { content: none; }
 button, input { font: inherit; }
 button { -webkit-tap-highlight-color: transparent; }
 .app { width: min(100%, 560px); min-height: 100vh; margin: 0 auto; padding: 24px 20px 32px; }
@@ -27,7 +27,9 @@ button { -webkit-tap-highlight-color: transparent; }
 .screen.active { display: block; }
 @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
 
-.home-hero { position: relative; min-height: calc(100vh - 56px); display: flex; flex-direction: column; justify-content: center; gap: 18px; padding: 18px 0 28px; }
+.home-hero { position: relative; min-height: calc(100vh - 56px); display: flex; flex-direction: column; justify-content: center; gap: 18px; margin: -24px -20px -32px; padding: 42px 20px 50px; overflow: hidden; background: url('../assets/IMG/Background BPS.jpg') center / cover no-repeat; }
+.home-hero::before { content: ""; position: absolute; inset: 0; background: rgba(255,255,255,.78); pointer-events: none; }
+.home-hero > * { position: relative; z-index: 1; }
 .brand-badge { display: inline-flex; width: fit-content; align-items: center; gap: 10px; color: var(--blue); font-size: .75rem; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
 .brand-badge img { width: 48px; height: 48px; object-fit: contain; }
 .brand-badge span { display: inline-flex; align-items: center; }
