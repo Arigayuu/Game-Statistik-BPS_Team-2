@@ -46,7 +46,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .nickname-box input { width: 100%; border: 1px solid var(--line); border-radius: 12px; padding: 14px; outline: none; background: var(--paper); color: var(--ink); }
 .nickname-box input::placeholder { color: #9aa8b4; }
 .nickname-box input:focus { border-color: var(--blue); box-shadow: 0 0 0 3px rgba(31,111,159,.14); }
-.data-note { color: var(--muted); font-size: .7rem; }
+.data-note { margin: 2px 0 0; border-left: 4px solid var(--orange); border-radius: 10px; padding: 10px 12px; background: rgba(255,255,255,.82); color: var(--navy); font-size: .76rem; font-weight: 800; line-height: 1.35; box-shadow: 0 5px 14px rgba(16,42,67,.08); }
 
 .btn { display: inline-flex; align-items: center; justify-content: center; width: 100%; min-height: 48px; border: 0; border-radius: 12px; padding: 12px 18px; cursor: pointer; font-weight: 850; letter-spacing: .035em; transition: transform .15s ease, filter .15s ease, border-color .15s ease; }
 .btn:active { transform: scale(.98); }
@@ -106,7 +106,7 @@ button { -webkit-tap-highlight-color: transparent; }
 .record-panel { margin-top: 26px; border: 1px solid rgba(31,111,159,.18); border-radius: 22px; padding: 17px; background: linear-gradient(145deg, #ffffff 0%, #f4f8fa 100%); box-shadow: 0 14px 30px rgba(16,42,67,.08); }
 .record-heading { display: flex; align-items: end; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
 .record-heading h3 { color: var(--navy); font-size: 1.45rem; line-height: 1; letter-spacing: -.04em; }
-.record-caption { max-width: 105px; color: var(--muted); font-size: .62rem; line-height: 1.25; text-align: right; }
+.record-caption { max-width: 126px; border: 1px solid rgba(31,111,159,.16); border-radius: 999px; padding: 6px 9px; background: var(--soft-blue); color: var(--blue); font-size: .62rem; font-weight: 800; line-height: 1.15; text-align: center; }
 .eyebrow { margin-bottom: 5px; color: var(--orange); font-size: .62rem; font-weight: 900; letter-spacing: .14em; }
 .record-list { display: grid; gap: 10px; }
 .record-row { overflow: hidden; border: 1px solid var(--line); border-radius: 15px; background: var(--paper); }
