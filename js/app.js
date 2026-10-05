@@ -40,7 +40,7 @@ function renderLevelList() {
     } else {
       const lock = document.createElement("span");
       lock.className = "lock-badge";
-      lock.textContent = "🔒 TERKUNCI";
+      lock.textContent = "TERKUNCI";
       card.appendChild(lock);
     }
 
@@ -55,7 +55,7 @@ function renderLives() {
   // STEP 1: tampilkan 3 nyawa penuh (logika pengurangan di STEP 2)
   const hearts = [];
   for (let i = 0; i < MAX_LIVES; i++) {
-    hearts.push(i < Game.lives ? "❤️" : "🖤");
+    hearts.push(i < Game.lives ? "●" : "○");
   }
   document.getElementById("game-lives").textContent = hearts.join(" ");
 }

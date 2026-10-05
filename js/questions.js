@@ -12,7 +12,7 @@ const Questions = {
    * Harus dipanggil sekali saat aplikasi mulai.
    */
   async load() {
-    const response = await fetch("data/questions.json");
+    const response = await fetch("data/dataset_statistik_challenge.json");
 
     if (!response.ok) {
       throw new Error("Gagal memuat data/questions.json");
