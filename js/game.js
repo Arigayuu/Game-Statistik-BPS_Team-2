@@ -44,6 +44,18 @@ const Game = {
   wrong: 0,
   lives: MAX_LIVES,
   answering: false,
+  streak: 0,
+  bestStreak: 0,
+  timeLimit: 20,
+  gameOver: false,
+
+  getTimeLimit() {
+    if (this.currentLevel <= 2) return 20;
+    if (this.currentLevel <= 4) return 15;
+    if (this.currentLevel <= 6) return 12;
+    return 10;
+  },
+
 
   /** Baca progress unlock & nickname dari localStorage */
   loadProgress() {
@@ -92,6 +104,11 @@ const Game = {
     this.wrong = 0;
     this.lives = MAX_LIVES;
     this.answering = false;
+    this.streak = 0;
+    this.bestStreak = 0;
+    this.timeLimit = this.getTimeLimit();
+    this.gameOver = false;
+
 
     if (this.questions.length === 0) {
       return false;
@@ -113,43 +130,38 @@ const Game = {
    * @returns {{ correct: boolean, correctKey: string, points: number, finished: boolean }}
    */
   answer(selectedKey) {
-    if (this.answering) {
-      return null;
-    }
+    if (this.answering || this.gameOver) return null;
 
     const question = this.getCurrentQuestion();
-    if (!question) {
-      return null;
-    }
+    if (!question) return null;
 
     this.answering = true;
-
     const correctKey = String(question.jawaban).toUpperCase();
-    const isCorrect = String(selectedKey).toUpperCase() === correctKey;
+    const timedOut = selectedKey === null;
+    const isCorrect = !timedOut && String(selectedKey).toUpperCase() === correctKey;
     let points = 0;
 
     if (isCorrect) {
       points = Number(question.poin) || LEVEL_INFO[this.currentLevel - 1].poin;
       this.score += points;
       this.correct += 1;
+      this.streak += 1;
+      this.bestStreak = Math.max(this.bestStreak, this.streak);
     } else {
       this.wrong += 1;
-      // STEP 1: nyawa belum dikurangi (aktif di STEP 2)
+      this.lives = Math.max(0, this.lives - 1);
+      this.streak = 0;
     }
 
-    const finished = this.index >= this.questions.length - 1;
+    const gameOver = this.lives === 0;
+    const finished = gameOver || this.index >= this.questions.length - 1;
+    this.gameOver = gameOver;
 
-    // Jika level selesai dengan minimal 1 benar → unlock level berikutnya
-    if (finished && this.correct > 0 && this.currentLevel < 8) {
+    if (finished && !gameOver && this.correct > 0 && this.currentLevel < 8) {
       this.saveUnlock(this.currentLevel + 1);
     }
 
-    return {
-      correct: isCorrect,
-      correctKey: correctKey,
-      points: points,
-      finished: finished,
-    };
+    return { correct: isCorrect, timedOut, correctKey, points, finished, gameOver, streak: this.streak };
   },
 
   /** Lanjut ke soal berikutnya. Return false jika sudah habis. */
@@ -171,6 +183,9 @@ const Game = {
       wrong: this.wrong,
       level: this.currentLevel,
       nickname: this.nickname,
+      bestStreak: this.bestStreak,
+      gameOver: this.gameOver,
+
     };
   },
 };

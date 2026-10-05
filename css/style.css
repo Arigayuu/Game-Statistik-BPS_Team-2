@@ -66,10 +66,14 @@ button { -webkit-tap-highlight-color: transparent; }
 .lock-badge { color: var(--muted); font-size: .7rem; font-weight: 800; }
 
 .game-meta { display: flex; justify-content: space-between; font-weight: 800; }
-.game-score-wrap { color: var(--blue); font-size: .82rem; }
-.game-score-wrap strong { color: var(--navy); font-size: 1.5rem; }
-.lives { color: var(--orange); font-size: .85rem; letter-spacing: .08em; }
-.timer-wrap { display: none; }
+  .game-score-wrap { color: var(--blue); font-size: .82rem; }
+  .game-score-wrap strong { color: var(--navy); font-size: 1.5rem; }
+  .lives { color: var(--orange); font-size: .95rem; letter-spacing: .08em; }
+  .game-status-row { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-size: .78rem; font-weight: 800; }
+  .game-status-row #game-streak { color: var(--green); }
+  .timer-wrap { display: block; height: 8px; overflow: hidden; border-radius: 999px; background: var(--line); }
+  .timer-fill { height: 100%; border-radius: inherit; background: var(--orange); transition: width .9s linear; }
+
 .question-card { min-height: 184px; margin-bottom: 14px; border-radius: var(--radius); padding: 22px 18px; background: var(--navy); color: white; box-shadow: var(--shadow); }
 .question-category { margin-bottom: 12px; color: #9ed29a; font-size: .68rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
 .question-text { max-width: 20ch; color: white; font-size: clamp(1.55rem, 7vw, 2rem); font-weight: 850; line-height: 1.05; }
@@ -87,7 +91,8 @@ button { -webkit-tap-highlight-color: transparent; }
 .result-card { display: grid; gap: 15px; min-height: calc(100vh - 56px); align-content: center; text-align: center; }
 .result-label { color: var(--muted); font-size: .72rem; font-weight: 900; letter-spacing: .14em; }
 .result-score { color: var(--orange); font-size: 6rem; font-weight: 950; line-height: .85; }
-.result-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+  .result-stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+
 .result-stats div { display: grid; gap: 3px; border: 1px solid var(--line); border-radius: 14px; padding: 12px 5px; background: var(--paper); }
 .result-stats span { color: var(--muted); font-size: .68rem; }
 .result-stats strong { color: var(--navy); font-size: 1.3rem; }

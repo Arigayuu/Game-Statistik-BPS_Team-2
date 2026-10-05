@@ -2,7 +2,11 @@
  * app.js — navigasi layar & menghubungkan UI dengan Game
  */
 
+let timerId = null;
+let timeLeft = 0;
+
 const screens = {
+
   home: document.getElementById("screen-home"),
   levels: document.getElementById("screen-levels"),
   game: document.getElementById("screen-game"),
@@ -52,13 +56,36 @@ function renderLevelList() {
 }
 
 function renderLives() {
-  // STEP 1: tampilkan 3 nyawa penuh (logika pengurangan di STEP 2)
   const hearts = [];
   for (let i = 0; i < MAX_LIVES; i++) {
-    hearts.push(i < Game.lives ? "●" : "○");
+    hearts.push(i < Game.lives ? "❤️" : "🖤");
   }
   document.getElementById("game-lives").textContent = hearts.join(" ");
 }
+
+function stopTimer() {
+  if (timerId) window.clearInterval(timerId);
+  timerId = null;
+}
+
+function renderTimer() {
+  const fill = document.getElementById("timer-fill");
+  const text = document.getElementById("timer-text");
+  timeLeft = Game.getTimeLimit();
+  text.textContent = timeLeft + "s";
+  fill.style.width = "100%";
+  stopTimer();
+  timerId = window.setInterval(() => {
+    timeLeft -= 1;
+    text.textContent = Math.max(0, timeLeft) + "s";
+    fill.style.width = Math.max(0, (timeLeft / Game.getTimeLimit()) * 100) + "%";
+    if (timeLeft <= 0) {
+      stopTimer();
+      handleAnswer(null, null);
+    }
+  }, 1000);
+}
+
 
 function renderQuestion() {
   const q = Game.getCurrentQuestion();
@@ -75,9 +102,9 @@ function renderQuestion() {
 
   renderLives();
 
-  // Timer UI placeholder (aktif di STEP 2)
-  document.getElementById("timer-text").textContent = "—";
-  document.getElementById("timer-fill").style.width = "100%";
+  renderTimer();
+  document.getElementById("game-streak").textContent = "STREAK x" + Math.max(1, Game.streak);
+
 
   const feedback = document.getElementById("feedback");
   feedback.className = "feedback hidden";
@@ -116,30 +143,37 @@ function handleAnswer(selectedKey, clickedBtn) {
     }
   });
 
-  if (!result.correct) {
+  if (!result.correct && clickedBtn) {
     clickedBtn.classList.add("wrong");
   }
+  renderLives();
+
 
   const feedback = document.getElementById("feedback");
   feedback.classList.remove("hidden");
 
   if (result.correct) {
     feedback.className = "feedback ok";
-    feedback.innerHTML =
-      "✓ BENAR!<br />+" + result.points + " POIN";
+    feedback.innerHTML = "✓ BENAR!<br />+" + result.points + " POIN" + (result.streak > 1 ? "<br />STREAK x" + result.streak : "");
   } else {
     feedback.className = "feedback bad";
-    feedback.innerHTML =
-      "✕ SALAH!<br />Jawaban yang benar: " + result.correctKey;
+    feedback.innerHTML = (result.timedOut ? "⌛ WAKTU HABIS!" : "✕ SALAH!") + "<br />Jawaban yang benar: " + result.correctKey;
   }
+
+  if (result.gameOver) {
+    feedback.innerHTML += "<br /><strong>GAME OVER — NYAWA HABIS</strong>";
+  }
+
 
   document.getElementById("game-score").textContent = String(Game.score);
 
   // Jeda singkat supaya pemain sempat baca feedback
   setTimeout(() => {
+    stopTimer();
     if (result.finished) {
       showResult();
     } else {
+
       Game.next();
       renderQuestion();
     }
@@ -165,13 +199,18 @@ function showResult() {
   document.getElementById("result-correct").textContent = String(data.correct);
   document.getElementById("result-wrong").textContent = String(data.wrong);
   document.getElementById("result-level").textContent = String(data.level);
+  document.getElementById("result-streak").textContent = String(data.bestStreak);
+  document.getElementById("result-title").textContent = data.gameOver ? "GAME OVER" : "GAME SELESAI!";
+
 
   showScreen("result");
 }
 
 function goHome() {
+  stopTimer();
   showScreen("home");
 }
+
 
 function goLevels() {
   renderLevelList();
