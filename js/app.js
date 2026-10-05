@@ -228,16 +228,17 @@ function renderTrackRecord() {
   container.innerHTML = LEVEL_INFO.map((info) => {
     const record = Game.getRecord(info.level);
     const status = record.attempts === 0 ? "Belum dimainkan" : record.successes > 0 ? "Berhasil" : "Belum berhasil";
-    return `<article class="record-row">
+    const statusClass = record.attempts === 0 ? "is-new" : record.successes > 0 ? "is-success" : "is-failed";
+    return `<article class="record-row ${statusClass}">
       <div class="record-row-heading">
-        <h3>Level ${info.level} · ${info.nama}</h3>
+        <div class="record-level"><span class="record-level-number">${String(info.level).padStart(2, "0")}</span><div><h3>${info.nama}</h3><p>Level ${info.level}</p></div></div>
         <span class="record-status">${status}</span>
       </div>
       <div class="record-metrics">
-        <span>Dimainkan <strong>${record.attempts}x</strong></span>
-        <span>Berhasil <strong>${record.successes}x</strong></span>
-        <span>Gagal <strong>${record.failures}x</strong></span>
-        <span>High score <strong>${record.highScore}</strong></span>
+        <span><strong>${record.highScore}</strong><small>High score</small></span>
+        <span><strong>${record.attempts}</strong><small>Percobaan</small></span>
+        <span><strong>${record.successes}</strong><small>Berhasil</small></span>
+        <span><strong>${record.failures}</strong><small>Gagal</small></span>
       </div>
     </article>`;
   }).join("");
